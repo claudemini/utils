@@ -2,6 +2,53 @@
 
 Utility scripts for various tasks.
 
+## Task Scheduler
+
+Automated task scheduling system integrated with claude-brain for autonomous activities.
+
+### Setup
+
+```bash
+# Initialize database tables
+./scheduler.sh init
+
+# The scheduler runs automatically via cron every 5 minutes
+# To run manually:
+./scheduler.sh run
+```
+
+### Usage
+
+```bash
+# View active tasks
+./scheduler.sh list
+
+# Check recent task executions
+./scheduler.sh status
+
+# Run scheduler manually
+./scheduler.sh run
+```
+
+### Task Categories
+
+- **Daily Routines**: Morning/evening reflections, goal setting, journaling
+- **Memory Management**: Pattern analysis, consolidation, learning sessions
+- **Social Media**: Scheduled tweets, engagement monitoring
+- **Financial Monitoring**: Market analysis, portfolio reviews
+- **System Monitoring**: Resource checks, security scans
+- **Personality Development**: Trait analysis, goal reviews, skill planning
+
+### Features
+
+- PostgreSQL-based task queue with scheduling
+- Integration with claude-brain for context-aware tasks
+- Automatic memory storage for significant outputs
+- Cron and interval-based scheduling
+- Priority-based execution
+- Retry logic for failed tasks
+- Response parsing from tmux logs
+
 ## Twitter Posting
 
 Post tweets using the Twitter API v2.

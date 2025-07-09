@@ -1,0 +1,2 @@
+# Claude Brain Task Scheduler - runs every 5 minutes
+*/5 * * * * cd /Users/claudemini/Claude/Code/utils && ./scheduler.sh run >> /Users/claudemini/Claude/Code/utils/logs/cron.log 2>&1
