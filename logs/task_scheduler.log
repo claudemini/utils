@@ -14,3 +14,10 @@
 2025-07-09 17:46:40,908 - task_scheduler - INFO - Executing task: System Resource Check (ID: 14)
 2025-07-09 17:47:41,098 - task_scheduler - INFO - Task System Resource Check completed with status: success
 2025-07-09 17:47:41,098 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 17:52:53,863 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 17:52:53,864 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 17:52:57,535 - task_scheduler - INFO - Task scheduler started
+2025-07-09 17:52:57,535 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 17:52:57,537 - task_scheduler - INFO - No tasks found, initializing with templates...
+2025-07-09 17:52:57,553 - task_scheduler - INFO - Initialized 38 tasks
+2025-07-09 17:52:57,554 - task_scheduler - INFO - Task scheduler completed

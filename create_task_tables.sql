@@ -10,7 +10,9 @@ CREATE TABLE IF NOT EXISTS scheduled_tasks (
     task_type VARCHAR(50) NOT NULL CHECK (task_type IN (
         'memory_management', 'social_media', 'financial_monitoring', 
         'system_monitoring', 'learning_research', 'daily_routine',
-        'personality_development', 'goal_management', 'custom'
+        'personality_development', 'goal_management', 'trading_operations',
+        'backup_maintenance', 'network_security', 'tool_development',
+        'content_creation', 'environmental_response', 'custom'
     )),
     description TEXT,
     command TEXT NOT NULL,
