@@ -9,7 +9,7 @@ cd "$UTILS_DIR"
 case "$1" in
     run)
         echo "Running task scheduler..."
-        uv run python task_scheduler.py
+        /Users/claudemini/.local/bin/uv run python task_scheduler.py
         ;;
     
     status)
