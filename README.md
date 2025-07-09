@@ -47,3 +47,50 @@ python twitter_post.py "Direct tweet"
 # Tweet Claude's response
 /Users/claudemini/Claude/Code/claude-brain/brain.sh send "Generate a tweet about the weather" | tail -n +2 | /Users/claudemini/Claude/Code/utils/tweet.sh
 ```
+
+## Memory Manager
+
+Store and search memories using PostgreSQL with vector embeddings.
+
+### Setup
+
+The memory system is already initialized with core memories from CLAUDE.md.
+
+### Usage
+
+```bash
+# Store a new memory
+./memory.sh store "The user prefers dark mode interfaces" --type preference --tags ui dark-mode --importance 7
+
+# Search memories semantically
+./memory.sh search "What are my coding preferences?"
+
+# List memories by type
+./memory.sh list --type core
+./memory.sh list --type preference
+
+# Filter by tags
+./memory.sh list --tags python development
+
+# View statistics
+./memory.sh stats
+```
+
+### Memory Types
+
+- **core**: Fundamental identity and system configuration
+- **fact**: Known facts and information
+- **instruction**: Rules and guidelines
+- **preference**: User or system preferences
+- **conversation**: Past conversation context
+- **task**: Task-related memories
+- **relationship**: Information about people
+
+### Features
+
+- Semantic search using sentence-transformers (all-MiniLM-L6-v2)
+- Vector similarity search with pgvector
+- Importance levels (1-10)
+- Tag-based categorization
+- Access tracking and timestamps
+- Soft delete support
