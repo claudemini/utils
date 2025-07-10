@@ -130,11 +130,11 @@ class TaskDaemon:
                     'claude',
                     '--dangerously-skip-permissions',
                     '-p',
-                    task['prompt']
+                    task['prompt'] or ''
                 ]
             else:
                 # Use command directly
-                cmd = task['command']
+                cmd = task['command'] or 'echo "No command specified"'
                 
             # Execute with timeout
             timeout = task.get('timeout_seconds', 300)  # 5 min default

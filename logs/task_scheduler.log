@@ -21,3 +21,1075 @@
 2025-07-09 17:52:57,537 - task_scheduler - INFO - No tasks found, initializing with templates...
 2025-07-09 17:52:57,553 - task_scheduler - INFO - Initialized 38 tasks
 2025-07-09 17:52:57,554 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 20:17:53,595 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 20:17:53,595 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:17:58,761 - task_scheduler - INFO - Task scheduler started
+2025-07-09 20:17:58,761 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 20:17:58,764 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 20:17:58,771 - task_scheduler - INFO - Found 10 pending tasks
+2025-07-09 20:17:58,777 - task_scheduler - INFO - Executing task: Security Incident Response (ID: 46)
+2025-07-09 20:25:05,620 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 20:25:05,620 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:25:10,319 - task_scheduler - INFO - Task scheduler started
+2025-07-09 20:25:10,319 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 20:25:10,321 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 20:25:10,327 - task_scheduler - INFO - Found 10 pending tasks
+2025-07-09 20:25:10,331 - task_scheduler - INFO - Executing task: Security Incident Response (ID: 46)
+2025-07-09 20:25:10,385 - task_scheduler - INFO - Task Security Incident Response completed with status: failed
+2025-07-09 20:25:10,386 - task_scheduler - INFO - Executing task: Execute Pending Trades (ID: 39)
+2025-07-09 20:25:10,434 - task_scheduler - INFO - Task Execute Pending Trades completed with status: failed
+2025-07-09 20:25:10,435 - task_scheduler - INFO - Executing task: Crypto Market Analysis (ID: 30)
+2025-07-09 20:25:10,484 - task_scheduler - INFO - Task Crypto Market Analysis completed with status: failed
+2025-07-09 20:25:10,485 - task_scheduler - INFO - Executing task: Performance Optimization Trigger (ID: 53)
+2025-07-09 20:25:10,499 - task_scheduler - INFO - Task Performance Optimization Trigger completed with status: failed
+2025-07-09 20:25:10,500 - task_scheduler - INFO - Executing task: Memory Pattern Analysis (ID: 24)
+2025-07-09 20:25:10,549 - task_scheduler - INFO - Task Memory Pattern Analysis completed with status: failed
+2025-07-09 20:25:10,550 - task_scheduler - INFO - Executing task: Portfolio Performance Review (ID: 31)
+2025-07-09 20:25:10,601 - task_scheduler - INFO - Task Portfolio Performance Review completed with status: failed
+2025-07-09 20:25:10,601 - task_scheduler - INFO - Executing task: Network Activity Monitor (ID: 45)
+2025-07-09 20:25:10,614 - task_scheduler - INFO - Task Network Activity Monitor completed with status: failed
+2025-07-09 20:25:10,615 - task_scheduler - INFO - Executing task: System Event Response (ID: 54)
+2025-07-09 20:25:10,663 - task_scheduler - INFO - Task System Event Response completed with status: failed
+2025-07-09 20:25:10,664 - task_scheduler - INFO - Executing task: Twitter Engagement Check (ID: 29)
+2025-07-09 20:25:10,712 - task_scheduler - INFO - Task Twitter Engagement Check completed with status: failed
+2025-07-09 20:25:10,712 - task_scheduler - INFO - Executing task: System Resource Check (ID: 33)
+2025-07-09 20:25:10,726 - task_scheduler - INFO - Task System Resource Check completed with status: failed
+2025-07-09 20:25:10,726 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 20:30:05,186 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 20:30:05,186 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:30:09,396 - task_scheduler - INFO - Task scheduler started
+2025-07-09 20:30:09,396 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 20:30:09,398 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 20:30:09,403 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-09 20:30:09,407 - task_scheduler - INFO - Executing task: File System Monitoring (ID: 44)
+2025-07-09 20:30:09,423 - task_scheduler - INFO - Task File System Monitoring completed with status: failed
+2025-07-09 20:30:09,423 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 20:35:05,176 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 20:35:05,176 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:35:11,323 - task_scheduler - INFO - Task scheduler started
+2025-07-09 20:35:11,323 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 20:35:11,325 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 20:35:11,329 - task_scheduler - INFO - Found 10 pending tasks
+2025-07-09 20:35:11,332 - task_scheduler - INFO - Executing task: Security Incident Response (ID: 46)
+2025-07-09 20:35:11,387 - task_scheduler - INFO - Task Security Incident Response completed with status: failed
+2025-07-09 20:35:11,388 - task_scheduler - INFO - Executing task: Execute Pending Trades (ID: 39)
+2025-07-09 20:35:11,439 - task_scheduler - INFO - Task Execute Pending Trades completed with status: failed
+2025-07-09 20:35:11,440 - task_scheduler - INFO - Executing task: Crypto Market Analysis (ID: 30)
+2025-07-09 20:35:11,489 - task_scheduler - INFO - Task Crypto Market Analysis completed with status: failed
+2025-07-09 20:35:11,490 - task_scheduler - INFO - Executing task: Performance Optimization Trigger (ID: 53)
+2025-07-09 20:35:11,502 - task_scheduler - INFO - Task Performance Optimization Trigger completed with status: failed
+2025-07-09 20:35:11,503 - task_scheduler - INFO - Executing task: Memory Pattern Analysis (ID: 24)
+2025-07-09 20:35:11,552 - task_scheduler - INFO - Task Memory Pattern Analysis completed with status: failed
+2025-07-09 20:35:11,553 - task_scheduler - INFO - Executing task: Portfolio Performance Review (ID: 31)
+2025-07-09 20:35:11,602 - task_scheduler - INFO - Task Portfolio Performance Review completed with status: failed
+2025-07-09 20:35:11,602 - task_scheduler - INFO - Executing task: Network Activity Monitor (ID: 45)
+2025-07-09 20:35:11,615 - task_scheduler - INFO - Task Network Activity Monitor completed with status: failed
+2025-07-09 20:35:11,617 - task_scheduler - INFO - Executing task: System Event Response (ID: 54)
+2025-07-09 20:35:11,666 - task_scheduler - INFO - Task System Event Response completed with status: failed
+2025-07-09 20:35:11,668 - task_scheduler - INFO - Executing task: Twitter Engagement Check (ID: 29)
+2025-07-09 20:35:11,717 - task_scheduler - INFO - Task Twitter Engagement Check completed with status: failed
+2025-07-09 20:35:11,718 - task_scheduler - INFO - Executing task: System Resource Check (ID: 33)
+2025-07-09 20:35:11,731 - task_scheduler - INFO - Task System Resource Check completed with status: failed
+2025-07-09 20:35:11,731 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 20:40:04,059 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 20:40:04,060 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:40:08,162 - task_scheduler - INFO - Task scheduler started
+2025-07-09 20:40:08,162 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 20:40:08,164 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 20:40:08,169 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-09 20:40:08,170 - task_scheduler - INFO - Executing task: File System Monitoring (ID: 44)
+2025-07-09 20:40:08,188 - task_scheduler - INFO - Task File System Monitoring completed with status: failed
+2025-07-09 20:40:08,188 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 20:45:04,566 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 20:45:04,567 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:45:08,697 - task_scheduler - INFO - Task scheduler started
+2025-07-09 20:45:08,697 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 20:45:08,698 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 20:45:08,703 - task_scheduler - INFO - Found 10 pending tasks
+2025-07-09 20:45:08,705 - task_scheduler - INFO - Executing task: Security Incident Response (ID: 46)
+2025-07-09 20:45:08,755 - task_scheduler - INFO - Task Security Incident Response completed with status: failed
+2025-07-09 20:45:08,756 - task_scheduler - INFO - Executing task: Execute Pending Trades (ID: 39)
+2025-07-09 20:45:08,804 - task_scheduler - INFO - Task Execute Pending Trades completed with status: failed
+2025-07-09 20:45:08,805 - task_scheduler - INFO - Executing task: Crypto Market Analysis (ID: 30)
+2025-07-09 20:45:08,854 - task_scheduler - INFO - Task Crypto Market Analysis completed with status: failed
+2025-07-09 20:45:08,855 - task_scheduler - INFO - Executing task: Performance Optimization Trigger (ID: 53)
+2025-07-09 20:45:08,870 - task_scheduler - INFO - Task Performance Optimization Trigger completed with status: failed
+2025-07-09 20:45:08,871 - task_scheduler - INFO - Executing task: Memory Pattern Analysis (ID: 24)
+2025-07-09 20:45:08,920 - task_scheduler - INFO - Task Memory Pattern Analysis completed with status: failed
+2025-07-09 20:45:08,921 - task_scheduler - INFO - Executing task: Portfolio Performance Review (ID: 31)
+2025-07-09 20:45:08,966 - task_scheduler - INFO - Task Portfolio Performance Review completed with status: failed
+2025-07-09 20:45:08,967 - task_scheduler - INFO - Executing task: Network Activity Monitor (ID: 45)
+2025-07-09 20:45:08,979 - task_scheduler - INFO - Task Network Activity Monitor completed with status: failed
+2025-07-09 20:45:08,980 - task_scheduler - INFO - Executing task: System Event Response (ID: 54)
+2025-07-09 20:45:09,029 - task_scheduler - INFO - Task System Event Response completed with status: failed
+2025-07-09 20:45:09,029 - task_scheduler - INFO - Executing task: Twitter Engagement Check (ID: 29)
+2025-07-09 20:45:09,079 - task_scheduler - INFO - Task Twitter Engagement Check completed with status: failed
+2025-07-09 20:45:09,080 - task_scheduler - INFO - Executing task: System Resource Check (ID: 33)
+2025-07-09 20:45:09,095 - task_scheduler - INFO - Task System Resource Check completed with status: failed
+2025-07-09 20:45:09,095 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 20:50:04,240 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 20:50:04,240 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:50:08,808 - task_scheduler - INFO - Task scheduler started
+2025-07-09 20:50:08,808 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 20:50:08,810 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 20:50:08,814 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-09 20:50:08,816 - task_scheduler - INFO - Executing task: File System Monitoring (ID: 44)
+2025-07-09 20:50:08,832 - task_scheduler - INFO - Task File System Monitoring completed with status: failed
+2025-07-09 20:50:08,832 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 20:55:04,086 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 20:55:04,086 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:55:09,603 - task_scheduler - INFO - Task scheduler started
+2025-07-09 20:55:09,603 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 20:55:09,605 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 20:55:09,608 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:00:04,870 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:00:04,870 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:00:09,060 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:00:09,060 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:00:09,061 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:00:09,065 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:05:04,242 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:05:04,243 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:05:09,648 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:05:09,649 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:05:09,650 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:05:09,654 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:10:04,915 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:10:04,915 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:10:11,216 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:10:11,216 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:10:11,218 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:10:11,221 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:15:04,666 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:15:04,667 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:15:10,057 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:15:10,057 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:15:10,058 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:15:10,062 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:20:04,087 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:20:04,088 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:20:08,933 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:20:08,933 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:20:08,934 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:20:08,938 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:25:04,283 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:25:04,283 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:25:09,273 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:25:09,274 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:25:09,275 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:25:09,278 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:30:08,617 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:30:08,617 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:30:12,792 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:30:12,792 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:30:12,794 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:30:12,823 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:35:04,301 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:35:04,301 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:35:09,280 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:35:09,281 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:35:09,283 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:35:09,289 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:40:04,575 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:40:04,575 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:40:08,683 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:40:08,683 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:40:08,684 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:40:08,690 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:45:03,882 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:45:03,882 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:45:10,092 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:45:10,092 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:45:10,093 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:45:10,097 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:50:04,378 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:50:04,378 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:50:08,964 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:50:08,965 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:50:08,966 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:50:08,969 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 21:55:04,265 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 21:55:04,265 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:55:09,739 - task_scheduler - INFO - Task scheduler started
+2025-07-09 21:55:09,739 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 21:55:09,741 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 21:55:09,744 - task_scheduler - INFO - Found 3 pending tasks
+2025-07-09 21:55:09,755 - task_scheduler - INFO - Executing task: Portfolio Rebalancing Check (ID: 40)
+2025-07-09 21:55:09,807 - task_scheduler - INFO - Task Portfolio Rebalancing Check completed with status: failed
+2025-07-09 21:55:09,808 - task_scheduler - INFO - Executing task: Security Scan (ID: 35)
+2025-07-09 21:55:09,823 - task_scheduler - INFO - Task Security Scan completed with status: failed
+2025-07-09 21:55:09,824 - task_scheduler - INFO - Executing task: Learning Session - Curiosity Pursuit (ID: 26)
+2025-07-09 21:55:09,870 - task_scheduler - INFO - Task Learning Session - Curiosity Pursuit completed with status: failed
+2025-07-09 21:55:09,870 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:00:04,116 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:00:04,116 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:00:10,429 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:00:10,429 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:00:10,430 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:00:10,435 - task_scheduler - INFO - Found 3 pending tasks
+2025-07-09 22:00:10,437 - task_scheduler - INFO - Executing task: Portfolio Rebalancing Check (ID: 40)
+2025-07-09 22:00:10,483 - task_scheduler - INFO - Task Portfolio Rebalancing Check completed with status: failed
+2025-07-09 22:00:10,484 - task_scheduler - INFO - Executing task: Security Scan (ID: 35)
+2025-07-09 22:00:10,499 - task_scheduler - INFO - Task Security Scan completed with status: failed
+2025-07-09 22:00:10,500 - task_scheduler - INFO - Executing task: Learning Session - Curiosity Pursuit (ID: 26)
+2025-07-09 22:00:10,545 - task_scheduler - INFO - Task Learning Session - Curiosity Pursuit completed with status: failed
+2025-07-09 22:00:10,546 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:05:04,613 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:05:04,614 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:05:08,737 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:05:08,737 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:05:08,738 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:05:08,743 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:10:03,982 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:10:03,982 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:10:10,254 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:10:10,254 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:10:10,255 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:10:10,258 - task_scheduler - INFO - Found 3 pending tasks
+2025-07-09 22:10:10,261 - task_scheduler - INFO - Executing task: Portfolio Rebalancing Check (ID: 40)
+2025-07-09 22:10:10,309 - task_scheduler - INFO - Task Portfolio Rebalancing Check completed with status: failed
+2025-07-09 22:10:10,309 - task_scheduler - INFO - Executing task: Security Scan (ID: 35)
+2025-07-09 22:10:10,325 - task_scheduler - INFO - Task Security Scan completed with status: failed
+2025-07-09 22:10:10,326 - task_scheduler - INFO - Executing task: Learning Session - Curiosity Pursuit (ID: 26)
+2025-07-09 22:10:10,372 - task_scheduler - INFO - Task Learning Session - Curiosity Pursuit completed with status: failed
+2025-07-09 22:10:10,372 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:15:04,688 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:15:04,688 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:15:08,835 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:15:08,835 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:15:08,836 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:15:08,840 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:20:04,174 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:20:04,174 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:20:08,300 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:20:08,300 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:20:08,302 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:20:08,307 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:25:04,488 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:25:04,488 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:25:10,767 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:25:10,768 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:25:10,769 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:25:10,773 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:30:04,273 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:30:04,273 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:30:10,166 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:30:10,166 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:30:10,167 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:30:10,172 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:35:04,187 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:35:04,187 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:35:09,773 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:35:09,773 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:35:09,775 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:35:09,777 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:40:04,039 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:40:04,039 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:40:08,704 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:40:08,705 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:40:08,706 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:40:08,709 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:45:04,816 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:45:04,816 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:45:08,919 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:45:08,919 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:45:08,920 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:45:08,924 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:50:03,922 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:50:03,922 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:50:10,080 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:50:10,080 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:50:10,081 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:50:10,084 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 22:55:04,269 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 22:55:04,269 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 22:55:08,528 - task_scheduler - INFO - Task scheduler started
+2025-07-09 22:55:08,528 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 22:55:08,529 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 22:55:08,532 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:00:04,585 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:00:04,585 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:00:10,559 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:00:10,559 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:00:10,560 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:00:10,564 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:05:04,673 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:05:04,674 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:05:09,844 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:05:09,844 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:05:09,845 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:05:09,851 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:10:04,106 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:10:04,106 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:10:08,726 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:10:08,726 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:10:08,727 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:10:08,730 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:15:04,029 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:15:04,029 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:15:08,676 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:15:08,676 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:15:08,677 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:15:08,682 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:20:03,959 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:20:03,959 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:20:08,046 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:20:08,046 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:20:08,047 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:20:08,050 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:25:04,043 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:25:04,044 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:25:08,112 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:25:08,113 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:25:08,114 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:25:08,118 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:30:04,206 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:30:04,207 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:30:10,031 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:30:10,031 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:30:10,032 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:30:10,035 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:35:04,248 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:35:04,248 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:35:08,866 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:35:08,866 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:35:08,868 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:35:08,872 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:40:04,135 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:40:04,135 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:40:09,605 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:40:09,606 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:40:09,607 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:40:09,609 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:45:03,803 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:45:03,803 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:45:10,137 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:45:10,137 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:45:10,138 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:45:10,141 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:50:04,431 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:50:04,431 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:50:08,551 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:50:08,551 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:50:08,553 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:50:08,555 - task_scheduler - INFO - Task scheduler completed
+2025-07-09 23:55:04,764 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-09 23:55:04,764 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 23:55:10,770 - task_scheduler - INFO - Task scheduler started
+2025-07-09 23:55:10,770 - task_scheduler - INFO - Checking for task initialization...
+2025-07-09 23:55:10,771 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-09 23:55:10,775 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-09 23:55:10,779 - task_scheduler - INFO - Executing task: Disk Cleanup Check (ID: 34)
+2025-07-09 23:55:10,795 - task_scheduler - INFO - Task Disk Cleanup Check completed with status: failed
+2025-07-09 23:55:10,795 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:00:04,228 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:00:04,228 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:00:09,842 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:00:09,842 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:00:09,843 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:00:09,857 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:05:05,500 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:05:05,501 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:05:09,883 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:05:09,883 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:05:09,884 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:05:09,900 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-10 00:05:09,908 - task_scheduler - INFO - Executing task: Disk Cleanup Check (ID: 34)
+2025-07-10 00:05:09,928 - task_scheduler - INFO - Task Disk Cleanup Check completed with status: failed
+2025-07-10 00:05:09,928 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:10:04,053 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:10:04,054 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:10:09,154 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:10:09,154 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:10:09,155 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:10:09,159 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:15:04,186 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:15:04,186 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:15:10,020 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:15:10,021 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:15:10,022 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:15:10,025 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-10 00:15:10,027 - task_scheduler - INFO - Executing task: Disk Cleanup Check (ID: 34)
+2025-07-10 00:15:10,043 - task_scheduler - INFO - Task Disk Cleanup Check completed with status: failed
+2025-07-10 00:15:10,043 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:20:04,207 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:20:04,208 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:20:08,276 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:20:08,276 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:20:08,278 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:20:08,281 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:25:04,364 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:25:04,364 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:25:10,187 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:25:10,188 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:25:10,189 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:25:10,192 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:30:04,379 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:30:04,380 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:30:10,607 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:30:10,608 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:30:10,609 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:30:10,611 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:35:04,730 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:35:04,730 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:35:10,498 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:35:10,498 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:35:10,499 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:35:10,503 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:40:04,778 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:40:04,778 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:40:08,922 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:40:08,922 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:40:08,923 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:40:08,927 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:45:03,954 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:45:03,954 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:45:10,232 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:45:10,232 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:45:10,233 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:45:10,235 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:50:04,307 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:50:04,307 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:50:08,369 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:50:08,369 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:50:08,370 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:50:08,374 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 00:55:04,557 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 00:55:04,558 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 00:55:10,482 - task_scheduler - INFO - Task scheduler started
+2025-07-10 00:55:10,482 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 00:55:10,483 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 00:55:10,486 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:00:04,591 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:00:04,591 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:00:10,804 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:00:10,804 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:00:10,806 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:00:10,809 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:05:03,992 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:05:03,992 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:05:08,589 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:05:08,589 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:05:08,591 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:05:08,594 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:10:03,828 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:10:03,828 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:10:07,904 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:10:07,904 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:10:07,905 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:10:07,908 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:15:04,156 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:15:04,156 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:15:09,640 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:15:09,640 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:15:09,641 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:15:09,644 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:20:03,923 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:20:03,923 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:20:09,514 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:20:09,514 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:20:09,516 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:20:09,520 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:25:04,798 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:25:04,798 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:25:09,854 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:25:09,855 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:25:09,856 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:25:09,859 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:30:03,863 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:30:03,863 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:30:09,288 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:30:09,288 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:30:09,289 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:30:09,293 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:35:04,380 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:35:04,380 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:35:10,614 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:35:10,615 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:35:10,616 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:35:10,619 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:40:04,981 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:40:04,981 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:40:09,610 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:40:09,610 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:40:09,611 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:40:09,615 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:45:04,838 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:45:04,838 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:45:09,417 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:45:09,417 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:45:09,419 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:45:09,422 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:50:04,635 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:50:04,635 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:50:10,501 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:50:10,501 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:50:10,503 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:50:10,506 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 01:55:04,916 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 01:55:04,916 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 01:55:10,959 - task_scheduler - INFO - Task scheduler started
+2025-07-10 01:55:10,959 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 01:55:10,960 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 01:55:10,965 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:00:04,008 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:00:04,008 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:00:09,037 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:00:09,037 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:00:09,038 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:00:09,041 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:05:04,396 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:05:04,396 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:05:10,438 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:05:10,438 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:05:10,439 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:05:10,442 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:10:04,757 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:10:04,758 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:10:11,139 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:10:11,139 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:10:11,140 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:10:11,144 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:15:04,523 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:15:04,523 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:15:09,667 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:15:09,667 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:15:09,668 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:15:09,672 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:20:04,028 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:20:04,028 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:20:09,060 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:20:09,060 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:20:09,062 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:20:09,066 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:25:04,194 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:25:04,194 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:25:09,601 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:25:09,602 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:25:09,603 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:25:09,607 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:30:04,577 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:30:04,577 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:30:10,895 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:30:10,895 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:30:10,896 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:30:10,900 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:35:04,253 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:35:04,253 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:35:10,120 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:35:10,120 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:35:10,122 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:35:10,124 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:40:04,138 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:40:04,138 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:40:09,580 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:40:09,580 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:40:09,582 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:40:09,585 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:45:03,792 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:45:03,793 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:45:09,260 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:45:09,260 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:45:09,261 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:45:09,266 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:50:04,525 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:50:04,526 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:50:09,644 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:50:09,645 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:50:09,646 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:50:09,648 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 02:55:04,869 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 02:55:04,869 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 02:55:09,482 - task_scheduler - INFO - Task scheduler started
+2025-07-10 02:55:09,483 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 02:55:09,484 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 02:55:09,488 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:00:04,800 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:00:04,800 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:00:09,935 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:00:09,935 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:00:09,936 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:00:09,940 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:05:03,961 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:05:03,961 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:05:08,064 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:05:08,064 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:05:08,066 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:05:08,068 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:10:04,311 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:10:04,311 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:10:08,362 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:10:08,362 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:10:08,364 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:10:08,366 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:15:04,441 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:15:04,441 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:15:10,263 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:15:10,263 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:15:10,264 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:15:10,268 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:20:04,399 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:20:04,399 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:20:08,631 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:20:08,631 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:20:08,633 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:20:08,635 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:25:04,033 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:25:04,033 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:25:09,811 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:25:09,812 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:25:09,813 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:25:09,816 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:30:04,010 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:30:04,010 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:30:08,579 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:30:08,579 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:30:08,581 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:30:08,584 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:35:04,714 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:35:04,714 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:35:08,797 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:35:08,797 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:35:08,799 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:35:08,803 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:40:04,020 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:40:04,021 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:40:09,007 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:40:09,007 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:40:09,009 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:40:09,011 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:45:04,026 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:45:04,026 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:45:09,526 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:45:09,526 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:45:09,528 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:45:09,530 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:50:04,689 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:50:04,689 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:50:11,091 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:50:11,091 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:50:11,092 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:50:11,095 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 03:55:04,291 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 03:55:04,292 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 03:55:10,529 - task_scheduler - INFO - Task scheduler started
+2025-07-10 03:55:10,529 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 03:55:10,530 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 03:55:10,534 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:00:04,831 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:00:04,831 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:00:11,032 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:00:11,032 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:00:11,033 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:00:11,037 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:05:04,318 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:05:04,318 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:05:09,358 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:05:09,358 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:05:09,359 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:05:09,363 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:10:04,564 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:10:04,564 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:10:10,848 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:10:10,848 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:10:10,849 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:10:10,853 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:15:03,975 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:15:03,975 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:15:10,541 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:15:10,541 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:15:10,543 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:15:10,547 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:20:04,706 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:20:04,707 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:20:08,841 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:20:08,842 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:20:08,843 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:20:08,845 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:25:04,110 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:25:04,111 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:25:09,810 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:25:09,810 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:25:09,811 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:25:09,814 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:30:03,959 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:30:03,960 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:30:10,436 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:30:10,436 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:30:10,437 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:30:10,441 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:35:04,465 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:35:04,465 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:35:10,670 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:35:10,670 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:35:10,671 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:35:10,675 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:40:04,677 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:40:04,677 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:40:09,271 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:40:09,271 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:40:09,272 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:40:09,275 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:45:04,317 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:45:04,317 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:45:08,993 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:45:08,993 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:45:08,995 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:45:08,998 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:50:04,086 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:50:04,086 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:50:09,072 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:50:09,072 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:50:09,073 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:50:09,077 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 04:55:04,318 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 04:55:04,318 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 04:55:08,856 - task_scheduler - INFO - Task scheduler started
+2025-07-10 04:55:08,856 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 04:55:08,857 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 04:55:08,861 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:00:04,159 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:00:04,159 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:00:09,615 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:00:09,615 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:00:09,616 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:00:09,620 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:05:03,858 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:05:03,858 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:05:08,957 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:05:08,957 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:05:08,959 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:05:08,962 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:10:04,101 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:10:04,101 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:10:10,153 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:10:10,153 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:10:10,155 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:10:10,157 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:15:04,291 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:15:04,292 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:15:09,759 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:15:09,760 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:15:09,761 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:15:09,765 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:20:04,789 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:20:04,789 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:20:09,002 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:20:09,002 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:20:09,003 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:20:09,006 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:25:04,109 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:25:04,109 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:25:08,702 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:25:08,702 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:25:08,704 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:25:08,707 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:30:03,947 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:30:03,947 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:30:10,123 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:30:10,123 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:30:10,125 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:30:10,128 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:35:04,333 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:35:04,333 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:35:10,137 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:35:10,138 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:35:10,139 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:35:10,142 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:40:04,467 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:40:04,468 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:40:10,846 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:40:10,846 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:40:10,848 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:40:10,850 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:45:03,970 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:45:03,970 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:45:08,986 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:45:08,986 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:45:08,987 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:45:08,990 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:50:04,020 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:50:04,020 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:50:10,229 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:50:10,229 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:50:10,231 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:50:10,235 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 05:55:04,357 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 05:55:04,357 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 05:55:09,647 - task_scheduler - INFO - Task scheduler started
+2025-07-10 05:55:09,647 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 05:55:09,648 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 05:55:09,652 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:00:04,800 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:00:04,800 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:00:10,315 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:00:10,315 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:00:10,316 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:00:10,318 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-10 06:00:10,327 - task_scheduler - INFO - Executing task: Morning Routine - Review and Plan (ID: 20)
+2025-07-10 06:00:10,386 - task_scheduler - INFO - Task Morning Routine - Review and Plan completed with status: failed
+2025-07-10 06:00:10,387 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:05:04,447 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:05:04,447 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:05:09,448 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:05:09,448 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:05:09,449 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:05:09,453 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:10:04,691 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:10:04,692 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:10:08,792 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:10:08,793 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:10:08,794 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:10:08,796 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-10 06:10:08,799 - task_scheduler - INFO - Executing task: Morning Routine - Review and Plan (ID: 20)
+2025-07-10 06:10:08,851 - task_scheduler - INFO - Task Morning Routine - Review and Plan completed with status: failed
+2025-07-10 06:10:08,851 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:15:03,793 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:15:03,793 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:15:08,849 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:15:08,849 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:15:08,850 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:15:08,854 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:20:03,918 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:20:03,918 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:20:08,219 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:20:08,219 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:20:08,220 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:20:08,225 - task_scheduler - INFO - Found 1 pending tasks
+2025-07-10 06:20:08,227 - task_scheduler - INFO - Executing task: Morning Routine - Review and Plan (ID: 20)
+2025-07-10 06:20:08,275 - task_scheduler - INFO - Task Morning Routine - Review and Plan completed with status: failed
+2025-07-10 06:20:08,275 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:25:04,527 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:25:04,527 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:25:08,800 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:25:08,800 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:25:08,801 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:25:08,805 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:30:04,031 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:30:04,031 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:30:09,892 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:30:09,892 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:30:09,894 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:30:09,897 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:35:04,110 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:35:04,110 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:35:08,208 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:35:08,208 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:35:08,209 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:35:08,213 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:40:04,404 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:40:04,404 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:40:09,874 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:40:09,874 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:40:09,875 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:40:09,878 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:45:03,889 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:45:03,889 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:45:07,967 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:45:07,967 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:45:07,969 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:45:07,972 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:50:04,167 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:50:04,168 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:50:09,124 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:50:09,124 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:50:09,126 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:50:09,129 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 06:55:04,308 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 06:55:04,308 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 06:55:08,399 - task_scheduler - INFO - Task scheduler started
+2025-07-10 06:55:08,400 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 06:55:08,401 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 06:55:08,404 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:00:04,498 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:00:04,498 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:00:10,394 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:00:10,394 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:00:10,395 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:00:10,399 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:05:04,697 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:05:04,697 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:05:10,908 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:05:10,908 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:05:10,909 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:05:10,913 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:10:04,105 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:10:04,105 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:10:08,635 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:10:08,635 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:10:08,636 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:10:08,640 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:15:03,769 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:15:03,769 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:15:09,224 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:15:09,224 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:15:09,226 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:15:09,228 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:20:04,140 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:20:04,141 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:20:10,321 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:20:10,321 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:20:10,322 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:20:10,325 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:25:04,534 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:25:04,534 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:25:09,595 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:25:09,595 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:25:09,596 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:25:09,600 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:30:03,710 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:30:03,710 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:30:09,915 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:30:09,915 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:30:09,916 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:30:09,919 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:35:04,019 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:35:04,019 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:35:08,934 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:35:08,934 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:35:08,936 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:35:08,940 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:40:04,232 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:40:04,232 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:40:08,297 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:40:08,297 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:40:08,298 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:40:08,301 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:45:04,653 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:45:04,653 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:45:08,732 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:45:08,732 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:45:08,734 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:45:08,737 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:50:04,804 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:50:04,805 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:50:10,205 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:50:10,206 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:50:10,207 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:50:10,210 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 07:55:04,493 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 07:55:04,493 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 07:55:09,066 - task_scheduler - INFO - Task scheduler started
+2025-07-10 07:55:09,066 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 07:55:09,067 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 07:55:09,072 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:00:03,940 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:00:03,940 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:00:08,474 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:00:08,474 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:00:08,476 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:00:08,479 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:05:04,760 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:05:04,760 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:05:08,836 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:05:08,836 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:05:08,837 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:05:08,839 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:10:04,106 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:10:04,106 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:10:08,720 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:10:08,720 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:10:08,721 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:10:08,725 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:15:03,699 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:15:03,699 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:15:07,903 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:15:07,903 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:15:07,905 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:15:07,909 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:20:04,001 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:20:04,001 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:20:09,822 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:20:09,822 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:20:09,823 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:20:09,826 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:25:04,075 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:25:04,076 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:25:09,531 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:25:09,531 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:25:09,533 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:25:09,535 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:30:04,595 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:30:04,595 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:30:08,689 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:30:08,689 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:30:08,691 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:30:08,695 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:35:03,892 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:35:03,892 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:35:08,506 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:35:08,506 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:35:08,507 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:35:08,511 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:40:05,089 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:40:05,089 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:40:09,652 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:40:09,652 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:40:09,654 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:40:09,657 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:45:04,788 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:45:04,788 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:45:09,449 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:45:09,449 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:45:09,450 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:45:09,455 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:50:04,408 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:50:04,409 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:50:09,839 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:50:09,839 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:50:09,841 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:50:09,844 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 08:55:04,958 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 08:55:04,958 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 08:55:09,834 - task_scheduler - INFO - Task scheduler started
+2025-07-10 08:55:09,835 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 08:55:09,836 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 08:55:09,839 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 09:00:05,028 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 09:00:05,028 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 09:00:10,864 - task_scheduler - INFO - Task scheduler started
+2025-07-10 09:00:10,864 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 09:00:10,866 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 09:00:10,868 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 09:05:04,814 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 09:05:04,815 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 09:05:10,946 - task_scheduler - INFO - Task scheduler started
+2025-07-10 09:05:10,946 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 09:05:10,947 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 09:05:10,950 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 09:10:05,063 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 09:10:05,063 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 09:10:10,862 - task_scheduler - INFO - Task scheduler started
+2025-07-10 09:10:10,863 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 09:10:10,864 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 09:10:10,867 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 09:15:04,934 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 09:15:04,935 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 09:15:10,693 - task_scheduler - INFO - Task scheduler started
+2025-07-10 09:15:10,693 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 09:15:10,695 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 09:15:10,698 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 09:20:04,868 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 09:20:04,869 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 09:20:09,443 - task_scheduler - INFO - Task scheduler started
+2025-07-10 09:20:09,443 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 09:20:09,444 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 09:20:09,449 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 09:25:04,511 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 09:25:04,511 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 09:25:11,085 - task_scheduler - INFO - Task scheduler started
+2025-07-10 09:25:11,085 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 09:25:11,087 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 09:25:11,090 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 09:30:04,981 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 09:30:04,981 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 09:30:10,076 - task_scheduler - INFO - Task scheduler started
+2025-07-10 09:30:10,077 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 09:30:10,078 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 09:30:10,081 - task_scheduler - INFO - Task scheduler completed
+2025-07-10 09:35:04,351 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-07-10 09:35:04,352 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-10 09:35:08,500 - task_scheduler - INFO - Task scheduler started
+2025-07-10 09:35:08,500 - task_scheduler - INFO - Checking for task initialization...
+2025-07-10 09:35:08,502 - task_scheduler - INFO - Found 38 existing tasks
+2025-07-10 09:35:08,506 - task_scheduler - INFO - Task scheduler completed

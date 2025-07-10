@@ -1,0 +1,140 @@
+2025-07-10 09:31:00,917 - task_daemon - INFO - Loaded CLAUDE.md context
+2025-07-10 09:31:00,917 - task_daemon - INFO - Loaded environment variables
+2025-07-10 09:31:00,925 - task_daemon - INFO - Connected to database
+2025-07-10 09:31:00,926 - task_daemon - INFO - Task daemon started
+2025-07-10 09:31:00,930 - task_daemon - INFO - Tick #1: Found 5 pending tasks
+2025-07-10 09:31:00,933 - task_daemon - ERROR - Task Security Incident Response failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (46, Security Incident Response, network_security, Respond to security alerts and incidents, Check for security incidents:
+1. Review system logs for security..., recurring, null, 120, 2025-07-09 20:40:11.386091+08, 2025-07-10 09:31:00.926241+08, null, running, 9, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:31:00.926241+08, t, null).
+
+2025-07-10 09:31:00,934 - task_daemon - ERROR - Error handling task failure: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:00,934 - task_daemon - ERROR - Task Morning Routine - Review and Plan failed: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:00,934 - task_daemon - ERROR - Error handling task failure: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:00,934 - task_daemon - ERROR - Task Execute Pending Trades failed: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:00,934 - task_daemon - ERROR - Error handling task failure: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:00,934 - task_daemon - ERROR - Task Crypto Market Analysis failed: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:00,935 - task_daemon - ERROR - Error handling task failure: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:00,935 - task_daemon - ERROR - Task Portfolio Rebalancing Check failed: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:00,935 - task_daemon - ERROR - Error handling task failure: current transaction is aborted, commands ignored until end of transaction block
+
+2025-07-10 09:31:38,238 - task_daemon - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 09:31:42,678 - task_daemon - INFO - Loaded CLAUDE.md context
+2025-07-10 09:31:42,678 - task_daemon - INFO - Loaded environment variables
+2025-07-10 09:31:42,686 - task_daemon - INFO - Connected to database
+2025-07-10 09:31:42,686 - task_daemon - INFO - Task daemon started
+2025-07-10 09:31:42,690 - task_daemon - INFO - Tick #1: Found 5 pending tasks
+2025-07-10 09:31:42,694 - task_daemon - ERROR - Task Security Incident Response failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (46, Security Incident Response, network_security, Respond to security alerts and incidents, Check for security incidents:
+1. Review system logs for security..., recurring, null, 120, 2025-07-09 20:40:11.386091+08, 2025-07-10 09:31:42.686307+08, null, running, 9, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:31:42.686307+08, t, null).
+
+2025-07-10 09:31:42,696 - task_daemon - ERROR - Task Morning Routine - Review and Plan failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (20, Morning Routine - Review and Plan, daily_routine, Review yesterday's memories and set daily goals, Review my memories from yesterday and set 3-5 goals for today. 
+..., cron, 0 6 * * *, null, 2025-07-10 06:15:08.849699+08, 2025-07-10 09:31:42.696152+08, null, running, 9, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:31:42.696152+08, t, null).
+
+2025-07-10 09:31:42,698 - task_daemon - ERROR - Task Execute Pending Trades failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (39, Execute Pending Trades, trading_operations, Execute trades based on analysis and strategy, Review current market conditions and pending trade signals.
+Exec..., recurring, null, 60, 2025-07-09 20:40:11.43704+08, 2025-07-10 09:31:42.697854+08, null, running, 8, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:31:42.697854+08, t, null).
+
+2025-07-10 09:31:42,699 - task_daemon - ERROR - Task Crypto Market Analysis failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (30, Crypto Market Analysis, financial_monitoring, Analyze cryptocurrency market conditions, Analyze current cryptocurrency market conditions.
+Focus on major..., recurring, null, 30, 2025-07-09 20:40:11.487698+08, 2025-07-10 09:31:42.699061+08, null, running, 7, 3, 3, 300, t, null, null, {"market_hours_only": false}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:31:42.699061+08, t, null).
+
+2025-07-10 09:31:42,700 - task_daemon - ERROR - Task Portfolio Rebalancing Check failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (40, Portfolio Rebalancing Check, trading_operations, Assess portfolio balance and rebalance if needed, Analyze current portfolio allocation and compare to target alloc..., recurring, null, 240, 2025-07-09 22:05:10.482115+08, 2025-07-10 09:31:42.699851+08, null, running, 7, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:31:42.699851+08, t, null).
+
+2025-07-10 09:32:42,688 - task_daemon - INFO - Tick #2: Found 5 pending tasks
+2025-07-10 09:32:42,690 - task_daemon - ERROR - Task Performance Optimization Trigger failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (53, Performance Optimization Trigger, environmental_response, Respond to performance issues automatically, Check for performance issues and optimize:
+1. Monitor CPU usage ..., recurring, null, 15, 2025-07-09 20:40:11.501845+08, 2025-07-10 09:32:42.688013+08, null, running, 6, 3, 3, 180, f, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:32:42.688013+08, t, null).
+
+2025-07-10 09:32:42,692 - task_daemon - ERROR - Task Memory Pattern Analysis failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (24, Memory Pattern Analysis, memory_management, Analyze memory patterns and correlations, Search through recent memories to identify patterns and insights..., recurring, null, 60, 2025-07-09 20:40:11.551268+08, 2025-07-10 09:32:42.691944+08, null, running, 6, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:32:42.691944+08, t, null).
+
+2025-07-10 09:32:42,694 - task_daemon - ERROR - Task Portfolio Performance Review failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (31, Portfolio Performance Review, financial_monitoring, Review portfolio performance and risk, Review current portfolio positions and performance.
+Calculate cu..., recurring, null, 60, 2025-07-09 20:40:11.601001+08, 2025-07-10 09:32:42.693916+08, null, running, 6, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:32:42.693916+08, t, null).
+
+2025-07-10 09:32:42,695 - task_daemon - ERROR - Task Security Scan failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (35, Security Scan, system_monitoring, Check for unusual system activity, Perform a security check:
+- Review recent login attempts
+- Check..., recurring, null, 240, 2025-07-09 22:05:10.498506+08, 2025-07-10 09:32:42.695326+08, null, running, 6, 3, 3, 180, f, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:32:42.695326+08, t, null).
+
+2025-07-10 09:32:42,696 - task_daemon - ERROR - Task Network Activity Monitor failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (45, Network Activity Monitor, network_security, Monitor network connections and activity, Monitor network activity:
+1. Check active network connections
+2...., recurring, null, 30, 2025-07-09 20:40:11.614198+08, 2025-07-10 09:32:42.696375+08, null, running, 5, 3, 3, 120, f, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:32:42.696375+08, t, null).
+
+2025-07-10 09:33:42,690 - task_daemon - INFO - Tick #3: Found 5 pending tasks
+2025-07-10 09:33:42,691 - task_daemon - ERROR - Task System Event Response failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (54, System Event Response, environmental_response, Respond to system events and changes, Monitor and respond to system events:
+1. Check system logs for i..., recurring, null, 60, 2025-07-09 20:40:11.665207+08, 2025-07-10 09:33:42.689628+08, null, running, 5, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:33:42.689628+08, t, null).
+
+2025-07-10 09:33:42,693 - task_daemon - ERROR - Task Learning Session - Curiosity Pursuit failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (26, Learning Session - Curiosity Pursuit, learning_research, 30-minute curiosity-driven learning session, Pursue a topic of current interest for deep learning.
+Choose bas..., recurring, null, 240, 2025-07-09 22:05:10.544644+08, 2025-07-10 09:33:42.692802+08, null, running, 5, 3, 3, 1800, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:33:42.692802+08, t, null).
+
+2025-07-10 09:33:42,694 - task_daemon - ERROR - Task Twitter Engagement Check failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (29, Twitter Engagement Check, social_media, Check and respond to Twitter interactions, Review recent Twitter mentions and interactions.
+Identify which ..., recurring, null, 120, 2025-07-09 20:40:11.715316+08, 2025-07-10 09:33:42.69408+08, null, running, 4, 3, 3, 300, t, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:33:42.69408+08, t, null).
+
+2025-07-10 09:33:42,695 - task_daemon - ERROR - Task Disk Cleanup Check failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (34, Disk Cleanup Check, system_monitoring, Check for disk cleanup opportunities, Analyze disk usage and identify cleanup opportunities:
+- Large t..., recurring, null, 360, 2025-07-10 00:10:09.927234+08, 2025-07-10 09:33:42.695458+08, null, running, 4, 3, 3, 120, f, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:33:42.695458+08, t, null).
+
+2025-07-10 09:33:42,696 - task_daemon - ERROR - Task System Resource Check failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (33, System Resource Check, system_monitoring, Monitor system resources, Check current system resource usage:
+- CPU usage and top process..., recurring, null, 5, 2025-07-09 20:40:11.730478+08, 2025-07-10 09:33:42.69645+08, null, running, 3, 3, 3, 60, f, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:33:42.69645+08, t, null).
+
+2025-07-10 09:34:42,692 - task_daemon - INFO - Tick #4: Found 1 pending tasks
+2025-07-10 09:34:42,693 - task_daemon - ERROR - Task File System Monitoring failed: new row for relation "scheduled_tasks" violates check constraint "scheduled_tasks_status_check"
+DETAIL:  Failing row contains (44, File System Monitoring, backup_maintenance, Monitor file system changes and categorize new files, Monitor file system activity:
+1. Check for new files in watched ..., recurring, null, 60, 2025-07-09 20:45:08.186354+08, 2025-07-10 09:34:42.691071+08, null, running, 3, 3, 3, 180, f, null, null, {}, 2025-07-09 17:52:57.535209+08, 2025-07-10 09:34:42.691071+08, t, null).
+
+2025-07-10 09:34:55,649 - task_daemon - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 09:35:00,090 - task_daemon - INFO - Loaded CLAUDE.md context
+2025-07-10 09:35:00,090 - task_daemon - INFO - Loaded environment variables
+2025-07-10 09:35:00,097 - task_daemon - INFO - Connected to database
+2025-07-10 09:35:00,097 - task_daemon - INFO - Task daemon started
+2025-07-10 09:42:00,095 - task_daemon - INFO - Tick #8: Found 5 pending tasks
+2025-07-10 09:42:00,107 - task_daemon - INFO - Executing task: Security Incident Response (ID: 46)
+2025-07-10 09:42:00,129 - task_daemon - INFO - Task Security Incident Response completed with status: failed
+2025-07-10 09:42:00,130 - task_daemon - INFO - Executing task: Morning Routine - Review and Plan (ID: 20)
+2025-07-10 09:42:00,142 - task_daemon - INFO - Task Morning Routine - Review and Plan completed with status: failed
+2025-07-10 09:42:00,143 - task_daemon - INFO - Executing task: Execute Pending Trades (ID: 39)
+2025-07-10 09:42:00,157 - task_daemon - INFO - Task Execute Pending Trades completed with status: failed
+2025-07-10 09:42:00,159 - task_daemon - INFO - Executing task: Crypto Market Analysis (ID: 30)
+2025-07-10 09:42:00,168 - task_daemon - INFO - Task Crypto Market Analysis completed with status: failed
+2025-07-10 09:42:00,170 - task_daemon - INFO - Executing task: Portfolio Rebalancing Check (ID: 40)
+2025-07-10 09:42:00,180 - task_daemon - INFO - Task Portfolio Rebalancing Check completed with status: failed
+2025-07-10 09:43:00,096 - task_daemon - INFO - Tick #9: Found 5 pending tasks
+2025-07-10 09:43:00,098 - task_daemon - INFO - Executing task: Performance Optimization Trigger (ID: 53)
+2025-07-10 09:43:00,117 - task_daemon - INFO - Task Performance Optimization Trigger completed with status: failed
+2025-07-10 09:43:00,118 - task_daemon - INFO - Executing task: Memory Pattern Analysis (ID: 24)
+2025-07-10 09:43:00,135 - task_daemon - INFO - Task Memory Pattern Analysis completed with status: failed
+2025-07-10 09:43:00,136 - task_daemon - INFO - Executing task: Portfolio Performance Review (ID: 31)
+2025-07-10 09:43:00,147 - task_daemon - INFO - Task Portfolio Performance Review completed with status: failed
+2025-07-10 09:43:00,148 - task_daemon - INFO - Executing task: Security Scan (ID: 35)
+2025-07-10 09:43:00,158 - task_daemon - INFO - Task Security Scan completed with status: failed
+2025-07-10 09:43:00,159 - task_daemon - INFO - Executing task: Network Activity Monitor (ID: 45)
+2025-07-10 09:43:00,168 - task_daemon - INFO - Task Network Activity Monitor completed with status: failed
+2025-07-10 09:44:00,096 - task_daemon - INFO - Tick #10: Found 5 pending tasks
+2025-07-10 09:44:00,099 - task_daemon - INFO - Executing task: System Event Response (ID: 54)
+2025-07-10 09:44:04,167 - task_daemon - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 09:44:04,176 - task_daemon - INFO - Task System Event Response completed with status: success
+2025-07-10 09:44:04,176 - task_daemon - INFO - Task daemon stopped
+2025-07-10 09:44:08,638 - task_daemon - INFO - Loaded CLAUDE.md context
+2025-07-10 09:44:08,638 - task_daemon - INFO - Loaded environment variables
+2025-07-10 09:44:08,646 - task_daemon - INFO - Connected to database
+2025-07-10 09:44:08,646 - task_daemon - INFO - Task daemon started
+2025-07-10 09:44:08,649 - task_daemon - INFO - Tick #1: Found 4 pending tasks
+2025-07-10 09:44:08,653 - task_daemon - INFO - Executing task: Learning Session - Curiosity Pursuit (ID: 26)
+2025-07-10 09:44:08,664 - task_daemon - INFO - Task Learning Session - Curiosity Pursuit completed with status: failed
+2025-07-10 09:44:08,666 - task_daemon - INFO - Executing task: Twitter Engagement Check (ID: 29)
