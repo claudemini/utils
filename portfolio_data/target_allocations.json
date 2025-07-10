@@ -1,0 +1,37 @@
+[
+  {
+    "asset_class": "stocks",
+    "target_percentage": 50.0,
+    "min_percentage": 45.0,
+    "max_percentage": 55.0,
+    "rebalance_threshold": 5.0
+  },
+  {
+    "asset_class": "bonds",
+    "target_percentage": 30.0,
+    "min_percentage": 25.0,
+    "max_percentage": 35.0,
+    "rebalance_threshold": 5.0
+  },
+  {
+    "asset_class": "crypto",
+    "target_percentage": 10.0,
+    "min_percentage": 5.0,
+    "max_percentage": 15.0,
+    "rebalance_threshold": 3.0
+  },
+  {
+    "asset_class": "commodities",
+    "target_percentage": 5.0,
+    "min_percentage": 3.0,
+    "max_percentage": 8.0,
+    "rebalance_threshold": 2.0
+  },
+  {
+    "asset_class": "cash",
+    "target_percentage": 5.0,
+    "min_percentage": 3.0,
+    "max_percentage": 10.0,
+    "rebalance_threshold": 3.0
+  }
+]

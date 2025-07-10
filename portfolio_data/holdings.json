@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "SPY",
+    "name": "SPDR S&P 500 ETF",
+    "asset_class": "stocks",
+    "current_value": 25000,
+    "cost_basis": 22000,
+    "quantity": 55,
+    "last_updated": "2025-07-10T10:16:02.043619"
+  },
+  {
+    "symbol": "AGG",
+    "name": "iShares Core US Aggregate Bond ETF",
+    "asset_class": "bonds",
+    "current_value": 15000,
+    "cost_basis": 16000,
+    "quantity": 140,
+    "last_updated": "2025-07-10T10:16:02.043625"
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "asset_class": "crypto",
+    "current_value": 8000,
+    "cost_basis": 5000,
+    "quantity": 0.08,
+    "last_updated": "2025-07-10T10:16:02.043626"
+  },
+  {
+    "symbol": "GLD",
+    "name": "SPDR Gold Trust",
+    "asset_class": "commodities",
+    "current_value": 7000,
+    "cost_basis": 6500,
+    "quantity": 35,
+    "last_updated": "2025-07-10T10:16:02.043627"
+  },
+  {
+    "symbol": "CASH",
+    "name": "Cash & Cash Equivalents",
+    "asset_class": "cash",
+    "current_value": 5000,
+    "cost_basis": 5000,
+    "quantity": 5000,
+    "last_updated": "2025-07-10T10:16:02.043627"
+  }
+]
