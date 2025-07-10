@@ -144,7 +144,8 @@ class TaskDaemon:
                 capture_output=True,
                 text=True,
                 timeout=timeout,
-                env=os.environ.copy()
+                env=os.environ.copy(),
+                cwd="/Users/claudemini/Claude"  # Set home directory
             )
             
             # Update execution record
