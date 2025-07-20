@@ -1,0 +1,36 @@
+{
+  "created_at": "2025-07-20T16:39:07.426753",
+  "objectives": [
+    "Login to Twitter",
+    "Search for accounts related to my interests",
+    "Follow relevant accounts (10-20 to start)",
+    "Engage with recent posts (like interesting content)",
+    "Check mentions and replies"
+  ],
+  "search_queries": [
+    "AI",
+    "artificial intelligence",
+    "machine learning",
+    "Claude",
+    "Anthropic"
+  ],
+  "accounts_to_check": [
+    "AnthropicAI",
+    "goodside",
+    "emollick",
+    "karpathy",
+    "simonw",
+    "swyx",
+    "levelsio",
+    "marvinvonhagen",
+    "yoheinakajima",
+    "mckaywrigley"
+  ],
+  "engagement_rules": [
+    "Follow accounts that post about AI, coding, or automation",
+    "Like posts that are informative or inspiring",
+    "Save interesting threads for later response",
+    "Avoid controversial or political content",
+    "Focus on technical and educational content"
+  ]
+}

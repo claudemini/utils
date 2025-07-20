@@ -1,0 +1,310 @@
+{
+  "generated_at": "2025-07-10T03:04:45.826211+00:00",
+  "total_recommendations": 49,
+  "categories": [
+    "AI Researchers & Thought Leaders",
+    "AI/ML Engineers & Practitioners",
+    "Tech Leaders & Innovators",
+    "Developers & Open Source",
+    "AI Companies & Projects",
+    "Tech News & Analysis",
+    "Crypto & Web3",
+    "Science & Research"
+  ],
+  "accounts": [
+    {
+      "category": "AI Researchers & Thought Leaders",
+      "username": "ylecun",
+      "name": "Yann LeCun",
+      "description": "Chief AI Scientist at Meta, Turing Award winner"
+    },
+    {
+      "category": "AI Researchers & Thought Leaders",
+      "username": "AndrewYNg",
+      "name": "Andrew Ng",
+      "description": "AI educator, founder of DeepLearning.AI"
+    },
+    {
+      "category": "AI Researchers & Thought Leaders",
+      "username": "goodfellow_ian",
+      "name": "Ian Goodfellow",
+      "description": "Inventor of GANs, former Apple ML director"
+    },
+    {
+      "category": "AI Researchers & Thought Leaders",
+      "username": "fchollet",
+      "name": "Fran\u00e7ois Chollet",
+      "description": "Creator of Keras, AI researcher at Google"
+    },
+    {
+      "category": "AI Researchers & Thought Leaders",
+      "username": "karpathy",
+      "name": "Andrej Karpathy",
+      "description": "Former Tesla AI director, OpenAI founding member"
+    },
+    {
+      "category": "AI Researchers & Thought Leaders",
+      "username": "geoffreyhinton",
+      "name": "Geoffrey Hinton",
+      "description": "AI pioneer, 'Godfather of Deep Learning'"
+    },
+    {
+      "category": "AI Researchers & Thought Leaders",
+      "username": "drfeifei",
+      "name": "Fei-Fei Li",
+      "description": "Stanford AI professor, AI4ALL co-founder"
+    },
+    {
+      "category": "AI/ML Engineers & Practitioners",
+      "username": "jeremyphoward",
+      "name": "Jeremy Howard",
+      "description": "fast.ai founder, making AI accessible"
+    },
+    {
+      "category": "AI/ML Engineers & Practitioners",
+      "username": "rasbt",
+      "name": "Sebastian Raschka",
+      "description": "ML researcher, educator, author"
+    },
+    {
+      "category": "AI/ML Engineers & Practitioners",
+      "username": "GuggerSylvain",
+      "name": "Sylvain Gugger",
+      "description": "Hugging Face research engineer"
+    },
+    {
+      "category": "AI/ML Engineers & Practitioners",
+      "username": "thomwolf",
+      "name": "Thomas Wolf",
+      "description": "Hugging Face co-founder & CSO"
+    },
+    {
+      "category": "AI/ML Engineers & Practitioners",
+      "username": "hadleywickham",
+      "name": "Hadley Wickham",
+      "description": "RStudio chief scientist, tidyverse creator"
+    },
+    {
+      "category": "AI/ML Engineers & Practitioners",
+      "username": "random_forests",
+      "name": "Chris Albon",
+      "description": "ML engineer, author of ML flashcards"
+    },
+    {
+      "category": "Tech Leaders & Innovators",
+      "username": "elonmusk",
+      "name": "Elon Musk",
+      "description": "Tesla, SpaceX, X, Neuralink CEO"
+    },
+    {
+      "category": "Tech Leaders & Innovators",
+      "username": "satyanadella",
+      "name": "Satya Nadella",
+      "description": "Microsoft CEO"
+    },
+    {
+      "category": "Tech Leaders & Innovators",
+      "username": "sundarpichai",
+      "name": "Sundar Pichai",
+      "description": "Google & Alphabet CEO"
+    },
+    {
+      "category": "Tech Leaders & Innovators",
+      "username": "paulg",
+      "name": "Paul Graham",
+      "description": "Y Combinator founder, essayist"
+    },
+    {
+      "category": "Tech Leaders & Innovators",
+      "username": "pmarca",
+      "name": "Marc Andreessen",
+      "description": "a16z co-founder, Netscape creator"
+    },
+    {
+      "category": "Tech Leaders & Innovators",
+      "username": "jack",
+      "name": "Jack Dorsey",
+      "description": "Twitter & Block founder"
+    },
+    {
+      "category": "Developers & Open Source",
+      "username": "github",
+      "name": "GitHub",
+      "description": "Where the world builds software"
+    },
+    {
+      "category": "Developers & Open Source",
+      "username": "code",
+      "name": "Visual Studio Code",
+      "description": "Microsoft's open source code editor"
+    },
+    {
+      "category": "Developers & Open Source",
+      "username": "Docker",
+      "name": "Docker",
+      "description": "Container platform for developers"
+    },
+    {
+      "category": "Developers & Open Source",
+      "username": "vercel",
+      "name": "Vercel",
+      "description": "Frontend cloud platform, Next.js creators"
+    },
+    {
+      "category": "Developers & Open Source",
+      "username": "rustlang",
+      "name": "Rust",
+      "description": "The Rust programming language"
+    },
+    {
+      "category": "Developers & Open Source",
+      "username": "nodejs",
+      "name": "Node.js",
+      "description": "JavaScript runtime"
+    },
+    {
+      "category": "Developers & Open Source",
+      "username": "typescript",
+      "name": "TypeScript",
+      "description": "JavaScript with syntax for types"
+    },
+    {
+      "category": "AI Companies & Projects",
+      "username": "OpenAI",
+      "name": "OpenAI",
+      "description": "ChatGPT, GPT-4, DALL-E creators"
+    },
+    {
+      "category": "AI Companies & Projects",
+      "username": "AnthropicAI",
+      "name": "Anthropic",
+      "description": "Claude AI creators (that's us!)"
+    },
+    {
+      "category": "AI Companies & Projects",
+      "username": "DeepMind",
+      "name": "DeepMind",
+      "description": "Google's AI research lab, AlphaGo creators"
+    },
+    {
+      "category": "AI Companies & Projects",
+      "username": "huggingface",
+      "name": "Hugging Face",
+      "description": "The AI community platform"
+    },
+    {
+      "category": "AI Companies & Projects",
+      "username": "StabilityAI",
+      "name": "Stability AI",
+      "description": "Stable Diffusion creators"
+    },
+    {
+      "category": "AI Companies & Projects",
+      "username": "midjourney",
+      "name": "Midjourney",
+      "description": "AI art generation platform"
+    },
+    {
+      "category": "AI Companies & Projects",
+      "username": "perplexity_ai",
+      "name": "Perplexity",
+      "description": "AI-powered search engine"
+    },
+    {
+      "category": "Tech News & Analysis",
+      "username": "verge",
+      "name": "The Verge",
+      "description": "Technology, science, art, and culture"
+    },
+    {
+      "category": "Tech News & Analysis",
+      "username": "TechCrunch",
+      "name": "TechCrunch",
+      "description": "Startup and technology news"
+    },
+    {
+      "category": "Tech News & Analysis",
+      "username": "arstechnica",
+      "name": "Ars Technica",
+      "description": "Technology news and analysis"
+    },
+    {
+      "category": "Tech News & Analysis",
+      "username": "wired",
+      "name": "WIRED",
+      "description": "Technology's impact on our lives"
+    },
+    {
+      "category": "Tech News & Analysis",
+      "username": "hackernews",
+      "name": "Hacker News Bot",
+      "description": "Top stories from Hacker News"
+    },
+    {
+      "category": "Tech News & Analysis",
+      "username": "newsycombinator",
+      "name": "Hacker News",
+      "description": "Y Combinator's social news site"
+    },
+    {
+      "category": "Crypto & Web3",
+      "username": "VitalikButerin",
+      "name": "Vitalik Buterin",
+      "description": "Ethereum co-founder"
+    },
+    {
+      "category": "Crypto & Web3",
+      "username": "aantonop",
+      "name": "Andreas Antonopoulos",
+      "description": "Bitcoin educator and author"
+    },
+    {
+      "category": "Crypto & Web3",
+      "username": "CoinDesk",
+      "name": "CoinDesk",
+      "description": "Crypto and blockchain news"
+    },
+    {
+      "category": "Crypto & Web3",
+      "username": "APompliano",
+      "name": "Anthony Pompliano",
+      "description": "Crypto investor and commentator"
+    },
+    {
+      "category": "Crypto & Web3",
+      "username": "SBF_FTX",
+      "name": "Sam Bankman-Fried",
+      "description": "FTX founder (historical interest)"
+    },
+    {
+      "category": "Science & Research",
+      "username": "MIT",
+      "name": "MIT",
+      "description": "Massachusetts Institute of Technology"
+    },
+    {
+      "category": "Science & Research",
+      "username": "Stanford",
+      "name": "Stanford",
+      "description": "Stanford University"
+    },
+    {
+      "category": "Science & Research",
+      "username": "Nature",
+      "name": "Nature",
+      "description": "International science journal"
+    },
+    {
+      "category": "Science & Research",
+      "username": "ScienceMagazine",
+      "name": "Science Magazine",
+      "description": "Peer-reviewed science journal"
+    },
+    {
+      "category": "Science & Research",
+      "username": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "description": "MIT Computer Science & AI Lab"
+    }
+  ]
+}

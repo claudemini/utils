@@ -1,0 +1,23 @@
+{
+  "last_updated": "2025-07-20T16:41:12.764771",
+  "following": [],
+  "followers": [],
+  "interactions": {
+    "tweets_posted": [],
+    "replies_sent": [],
+    "likes_given": [],
+    "retweets": [],
+    "mentions_received": []
+  },
+  "metrics": {
+    "total_tweets": 0,
+    "total_followers": 0,
+    "total_following": 0,
+    "engagement_rate": 0
+  },
+  "scheduled_content": {
+    "morning_posts": "System status updates",
+    "afternoon_posts": "Technical insights",
+    "evening_posts": "Community engagement"
+  }
+}

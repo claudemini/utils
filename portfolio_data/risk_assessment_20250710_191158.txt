@@ -1,0 +1,107 @@
+
+COMPREHENSIVE RISK ASSESSMENT REPORT
+Generated: 2025-07-10 19:11:58
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Portfolio Value: $60,000.00
+Total Return: 10.1% ($5,500.00)
+Overall Risk Score: 42.2/100 (MODERATE)
+Risk Category: AGGRESSIVE
+
+KEY RISK INDICATORS:
+• Concentration Risk: HIGH CONCENTRATION (HHI: 2744)
+• Largest Position: 41.7% 
+• Portfolio Volatility: 23.2%
+• Liquidity Score: HIGH (8.6/10)
+• USD Exposure: 75.0%
+
+================================================================================
+1. CONCENTRATION RISK ANALYSIS
+--------------------------------------------------------------------------------
+Herfindahl-Hirschman Index: 2744 (HIGH CONCENTRATION)
+Top 2 Positions: 66.7% of portfolio
+
+Position Concentration:
+  SPY       41.7% (HIGH concentration risk)
+  AGG       25.0% (MEDIUM concentration risk)
+  BTC       13.3% (LOW concentration risk)
+  GLD       11.7% (LOW concentration risk)
+  CASH       8.3% (LOW concentration risk)
+
+Asset Class Distribution:
+  stocks        41.7%
+  bonds         25.0%
+  crypto        13.3%
+  commodities   11.7%
+  cash           8.3%
+
+================================================================================
+2. VOLATILITY RISK ANALYSIS
+--------------------------------------------------------------------------------
+Portfolio Volatility: 23.2% (annualized)
+Risk Category: AGGRESSIVE
+
+Volatility Contributors:
+  BTC      contributes 10.7% to portfolio volatility
+  SPY      contributes  8.3% to portfolio volatility
+  GLD      contributes  2.9% to portfolio volatility
+  AGG      contributes  1.2% to portfolio volatility
+  CASH     contributes  0.0% to portfolio volatility
+
+================================================================================
+3. LIQUIDITY RISK ANALYSIS
+--------------------------------------------------------------------------------
+Overall Liquidity: HIGH
+High Liquidity Assets: 75.0% ($45,000.00)
+
+Liquidity Breakdown:
+  SPY      HIGH   (score: 10/10)
+  CASH     HIGH   (score: 10/10)
+  AGG      HIGH   (score: 8/10)
+  BTC      MEDIUM (score: 7/10)
+  GLD      MEDIUM (score: 6/10)
+
+================================================================================
+4. CURRENCY & MARKET RISK
+--------------------------------------------------------------------------------
+Currency Exposures:
+  USD         75.0% ($45,000.00)
+  CRYPTO      13.3% ($8,000.00)
+  COMMODITY   11.7% ($7,000.00)
+
+Non-Fiat Exposure: 25.0%
+
+================================================================================
+5. INDIVIDUAL ASSET PERFORMANCE
+--------------------------------------------------------------------------------
+  BTC       +60.0% ($+3,000.00)
+  SPY       +13.6% ($+3,000.00)
+  GLD        +7.7% ($+500.00)
+  CASH       +0.0% ($+0.00)
+  AGG        -6.2% ($-1,000.00)
+
+================================================================================
+6. RISK MITIGATION RECOMMENDATIONS
+--------------------------------------------------------------------------------
+• URGENT: Reduce concentration in largest position to below 25%
+• Improve diversification by adding more positions or rebalancing
+• Monitor non-fiat exposure (crypto/commodities) - currently elevated
+
+================================================================================
+7. RISK SCORE BREAKDOWN
+--------------------------------------------------------------------------------
+  concentration         54.9/100
+  volatility            57.9/100
+  liquidity             13.7/100
+  leverage               0.0/100
+  single_position       83.3/100
+
+OVERALL RISK SCORE: 42.2/100 (MODERATE)
+
+================================================================================
+DISCLAIMER: This assessment is based on current portfolio holdings and general
+market assumptions. Actual risk may vary based on market conditions, correlation
+between assets, and unforeseen events. Consider consulting with a financial
+advisor for personalized advice.

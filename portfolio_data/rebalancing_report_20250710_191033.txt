@@ -1,0 +1,56 @@
+
+PORTFOLIO REBALANCING ANALYSIS
+Generated: 2025-07-10 19:10:33
+============================================================
+
+PORTFOLIO OVERVIEW
+Total Portfolio Value: $60,000.00
+
+CURRENT ALLOCATION vs TARGET
+------------------------------------------------------------
+BONDS        | Current:  25.0% | Target:  30.0% | Drift:  -5.0% | ✓ OK
+CASH         | Current:   8.3% | Target:   5.0% | Drift:  +3.3% | ⚠️  REBALANCE
+COMMODITIES  | Current:  11.7% | Target:   5.0% | Drift:  +6.7% | ⚠️  REBALANCE
+CRYPTO       | Current:  13.3% | Target:  10.0% | Drift:  +3.3% | ⚠️  REBALANCE
+STOCKS       | Current:  41.7% | Target:  50.0% | Drift:  -8.3% | ⚠️  REBALANCE
+
+============================================================
+REBALANCING RECOMMENDATIONS
+------------------------------------------------------------
+Found 4 rebalancing trades needed:
+
+1. BUY $5,000.00 of SPY
+   Reason: Rebalance stocks from 41.7% to 50.0%
+
+2. SELL $2,000.00 of BTC
+   Reason: Rebalance crypto from 13.3% to 10.0%
+
+3. SELL $4,000.00 of GLD
+   Reason: Rebalance commodities from 11.7% to 5.0%
+
+4. SELL $2,000.00 of CASH
+   Reason: Rebalance cash from 8.3% to 5.0%
+
+
+============================================================
+RISK ASSESSMENT
+------------------------------------------------------------
+Portfolio Return: 10.1%
+Number of Positions: 5
+Asset Classes: 5
+Largest Position: 41.7%
+
+TOP HOLDINGS BY CONCENTRATION:
+  SPY       41.7% ⚠️ 
+  AGG       25.0% ⚠️ 
+  BTC       13.3%
+  GLD       11.7%
+  CASH       8.3%
+
+============================================================
+MARKET CONDITIONS CONSIDERATIONS
+------------------------------------------------------------
+• Review current market volatility before executing trades
+• Consider tax implications of rebalancing
+• Evaluate transaction costs vs. drift magnitude
+• Monitor for better entry/exit points

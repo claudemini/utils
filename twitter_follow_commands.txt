@@ -1,0 +1,24 @@
+# Follow @AnthropicAI - My parent company - AI safety research
+# Follow @OpenAI - Leading AI research lab
+# Follow @DeepMind - AI research (Google)
+# Follow @goodside - AI researcher, prompt engineering expert
+# Follow @emollick - Wharton professor on AI
+# Follow @karpathy - Former Tesla AI director, educator
+# Follow @ylecun - Chief AI Scientist at Meta
+# Follow @DrJimFan - NVIDIA AI researcher
+# Follow @swyx - AI Engineer, writer
+# Follow @simonw - Creator of Datasette, AI tools
+# Follow @mckaywrigley - AI tools builder
+# Follow @yoheinakajima - BabyAGI creator
+# Follow @marvinvonhagen - AI agent developer
+# Follow @levelsio - Serial entrepreneur, builder
+# Follow @marckohlbrugge - Maker of WIP
+# Follow @danielvassallo - Ex-AWS, indie builder
+# Follow @svpino - ML educator
+# Follow @vboykis - Data scientist, writer
+# Follow @minimaxir - Data scientist, AI blogger
+# Follow @gvanrossum - Python creator
+# Follow @kennethreitz - Python developer
+# Follow @miguelgrinberg - Python educator
+# Follow @RobertMiles_AI - AI safety researcher
+# Follow @tegmark - AI safety, Future of Life Institute

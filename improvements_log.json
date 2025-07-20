@@ -1,0 +1,611 @@
+[
+  {
+    "timestamp": "2025-07-20T17:05:55.527684",
+    "analysis": {
+      "timestamp": "2025-07-20T17:05:55.366496",
+      "total_files": 46,
+      "total_lines": 11984,
+      "total_functions": 370,
+      "total_issues": 94,
+      "files_with_issues": [
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/claude_executor.py",
+          "lines": 316,
+          "functions": 7,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'execute_brain_command' is 102 lines (consider splitting)",
+            "Function 'execute_task' is 61 lines (consider splitting)",
+            "Found 3 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/system_monitor.py",
+          "lines": 252,
+          "functions": 11,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'monitor_once' is 62 lines (consider splitting)",
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/chrome_process_manager.py",
+          "lines": 297,
+          "functions": 10,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Generic exception handling detected",
+            "Found 1 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_morning_post.py",
+          "lines": 130,
+          "functions": 4,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/memory_manager.py",
+          "lines": 355,
+          "functions": 12,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'main' is 85 lines (consider splitting)",
+            "Function 'add_core_memories' is 62 lines (consider splitting)",
+            "Found 4 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_mentions.py",
+          "lines": 193,
+          "functions": 6,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Found 1 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/task_scheduler.py",
+          "lines": 342,
+          "functions": 10,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'complete_task_execution' is 75 lines (consider splitting)",
+            "Function 'initialize_tasks' is 63 lines (consider splitting)",
+            "Found 4 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/task_error_handler.py",
+          "lines": 268,
+          "functions": 9,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'execute_with_retry' is 91 lines (consider splitting)",
+            "Generic exception handling detected",
+            "Found 1 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_monitor.py",
+          "lines": 196,
+          "functions": 9,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Found 1 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_browser_interaction.py",
+          "lines": 170,
+          "functions": 4,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'generate_browser_instructions' is 52 lines (consider splitting)"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/fs_monitor.py",
+          "lines": 231,
+          "functions": 10,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/optimize_venv.py",
+          "lines": 143,
+          "functions": 3,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'optimize_venv' is 91 lines (consider splitting)",
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/filesystem_monitor.py",
+          "lines": 219,
+          "functions": 11,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'analyze_changes' is 51 lines (consider splitting)"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_post.py",
+          "lines": 129,
+          "functions": 5,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Found 1 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/portfolio_manager.py",
+          "lines": 342,
+          "functions": 11,
+          "classes": 3,
+          "complexity": 0,
+          "issues": [
+            "Function '_initialize_files' is 94 lines (consider splitting)",
+            "Function 'generate_rebalancing_report' is 57 lines (consider splitting)",
+            "Found 2 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/task_templates.py",
+          "lines": 775,
+          "functions": 17,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'daily_routine_tasks' is 65 lines (consider splitting)",
+            "Function 'system_monitoring_tasks' is 51 lines (consider splitting)",
+            "Function 'personality_development_tasks' is 51 lines (consider splitting)",
+            "Function 'trading_operations_tasks' is 55 lines (consider splitting)",
+            "Function 'backup_and_maintenance_tasks' is 53 lines (consider splitting)",
+            "Function 'tool_development_tasks' is 54 lines (consider splitting)",
+            "Function 'content_creation_tasks' is 55 lines (consider splitting)",
+            "Function 'environmental_response_tasks' is 54 lines (consider splitting)",
+            "Found 21 duplicate code patterns"
+          ],
+          "suggestions": [
+            "Consider splitting this file into smaller modules"
+          ]
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/github_automation.py",
+          "lines": 427,
+          "functions": 11,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'commit_and_push' is 53 lines (consider splitting)",
+            "Function 'scan_projects' is 62 lines (consider splitting)",
+            "Function 'create_readme_for_project' is 56 lines (consider splitting)",
+            "Generic exception handling detected",
+            "Found 4 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_search_mentions.py",
+          "lines": 230,
+          "functions": 6,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'main' is 71 lines (consider splitting)",
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/find_accounts_to_follow.py",
+          "lines": 204,
+          "functions": 4,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'main' is 67 lines (consider splitting)",
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_manager.py",
+          "lines": 390,
+          "functions": 9,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'main' is 85 lines (consider splitting)",
+            "Function 'discover_accounts' is 70 lines (consider splitting)",
+            "Found 4 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/task_daemon.py",
+          "lines": 333,
+          "functions": 8,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'execute_task' is 107 lines (consider splitting)",
+            "Function '_handle_task_failure' is 55 lines (consider splitting)",
+            "Generic exception handling detected",
+            "Found 5 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_response_queue.py",
+          "lines": 191,
+          "functions": 5,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'create_response_script' is 76 lines (consider splitting)"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/state_file_rotator.py",
+          "lines": 192,
+          "functions": 7,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/self_improvement_system.py",
+          "lines": 456,
+          "functions": 15,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'analyze_python_file' is 54 lines (consider splitting)",
+            "Function 'learn_from_errors' is 60 lines (consider splitting)",
+            "Function 'create_improvement_plan' is 55 lines (consider splitting)",
+            "Generic exception handling detected",
+            "Found 8 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/autonomous_system.py",
+          "lines": 428,
+          "functions": 23,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Generic exception handling detected",
+            "Found 1 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/unified_dashboard.py",
+          "lines": 319,
+          "functions": 9,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Generic exception handling detected",
+            "Found 2 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/advanced_fs_monitor.py",
+          "lines": 428,
+          "functions": 12,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function '__init__' is 55 lines (consider splitting)",
+            "Function 'scan_directory' is 93 lines (consider splitting)",
+            "Function 'generate_report' is 60 lines (consider splitting)",
+            "Generic exception handling detected",
+            "Found 3 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/file_system_monitor.py",
+          "lines": 322,
+          "functions": 12,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'scan_directory' is 76 lines (consider splitting)",
+            "Function 'generate_report' is 78 lines (consider splitting)",
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_status.py",
+          "lines": 81,
+          "functions": 4,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Generic exception handling detected"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_follow_with_browser.py",
+          "lines": 90,
+          "functions": 1,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'follow_accounts_with_browser' is 75 lines (consider splitting)"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_follow_strategy.py",
+          "lines": 193,
+          "functions": 4,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'create_follow_plan' is 64 lines (consider splitting)"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/comprehensive_risk_assessment.py",
+          "lines": 413,
+          "functions": 9,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'generate_comprehensive_report' is 135 lines (consider splitting)",
+            "Found 4 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/fs_monitor_report.py",
+          "lines": 380,
+          "functions": 7,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'scan_directory_changes' is 60 lines (consider splitting)",
+            "Function 'generate_report' is 112 lines (consider splitting)",
+            "Function 'scan_directory' is 65 lines (consider splitting)",
+            "Generic exception handling detected",
+            "Found 4 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_demo_responses.py",
+          "lines": 207,
+          "functions": 3,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'analyze_mention' is 51 lines (consider splitting)"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_automation_master.py",
+          "lines": 190,
+          "functions": 9,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Found 2 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/workflow_dashboard.py",
+          "lines": 317,
+          "functions": 13,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Found 1 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_follow_list.py",
+          "lines": 194,
+          "functions": 2,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'create_follow_helper' is 54 lines (consider splitting)"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/fs_activity_monitor.py",
+          "lines": 311,
+          "functions": 11,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Function 'scan_directory' is 77 lines (consider splitting)",
+            "Generic exception handling detected",
+            "Found 2 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/twitter_account_discovery.py",
+          "lines": 218,
+          "functions": 4,
+          "classes": 0,
+          "complexity": 0,
+          "issues": [
+            "Function 'discover_accounts' is 74 lines (consider splitting)",
+            "Generic exception handling detected",
+            "Found 2 duplicate code patterns"
+          ],
+          "suggestions": []
+        },
+        {
+          "file": "/Users/claudemini/Claude/Code/utils/email_automation.py",
+          "lines": 410,
+          "functions": 16,
+          "classes": 1,
+          "complexity": 0,
+          "issues": [
+            "Generic exception handling detected",
+            "Found 1 duplicate code patterns"
+          ],
+          "suggestions": []
+        }
+      ]
+    },
+    "improvements_made": [],
+    "learning": {
+      "timestamp": "2025-07-20T17:05:55.391415",
+      "errors_analyzed": 0,
+      "patterns": {
+        "missing_module": 0,
+        "timeout": 0,
+        "connection": 0
+      },
+      "proposed_solutions": {}
+    },
+    "plan": {
+      "created_at": "2025-07-20T17:05:55.527480",
+      "priorities": [
+        {
+          "priority": "high",
+          "task": "refactor_complex_functions",
+          "description": "Refactor 94 code issues",
+          "files": [
+            "/Users/claudemini/Claude/Code/utils/claude_executor.py",
+            "/Users/claudemini/Claude/Code/utils/system_monitor.py",
+            "/Users/claudemini/Claude/Code/utils/chrome_process_manager.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_morning_post.py",
+            "/Users/claudemini/Claude/Code/utils/memory_manager.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_mentions.py",
+            "/Users/claudemini/Claude/Code/utils/task_scheduler.py",
+            "/Users/claudemini/Claude/Code/utils/task_error_handler.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_monitor.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_browser_interaction.py",
+            "/Users/claudemini/Claude/Code/utils/fs_monitor.py",
+            "/Users/claudemini/Claude/Code/utils/optimize_venv.py",
+            "/Users/claudemini/Claude/Code/utils/filesystem_monitor.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_post.py",
+            "/Users/claudemini/Claude/Code/utils/portfolio_manager.py",
+            "/Users/claudemini/Claude/Code/utils/task_templates.py",
+            "/Users/claudemini/Claude/Code/utils/github_automation.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_search_mentions.py",
+            "/Users/claudemini/Claude/Code/utils/find_accounts_to_follow.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_manager.py",
+            "/Users/claudemini/Claude/Code/utils/task_daemon.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_response_queue.py",
+            "/Users/claudemini/Claude/Code/utils/state_file_rotator.py",
+            "/Users/claudemini/Claude/Code/utils/self_improvement_system.py",
+            "/Users/claudemini/Claude/Code/utils/autonomous_system.py",
+            "/Users/claudemini/Claude/Code/utils/unified_dashboard.py",
+            "/Users/claudemini/Claude/Code/utils/advanced_fs_monitor.py",
+            "/Users/claudemini/Claude/Code/utils/file_system_monitor.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_status.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_follow_with_browser.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_follow_strategy.py",
+            "/Users/claudemini/Claude/Code/utils/comprehensive_risk_assessment.py",
+            "/Users/claudemini/Claude/Code/utils/fs_monitor_report.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_demo_responses.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_automation_master.py",
+            "/Users/claudemini/Claude/Code/utils/workflow_dashboard.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_follow_list.py",
+            "/Users/claudemini/Claude/Code/utils/fs_activity_monitor.py",
+            "/Users/claudemini/Claude/Code/utils/twitter_account_discovery.py",
+            "/Users/claudemini/Claude/Code/utils/email_automation.py"
+          ]
+        },
+        {
+          "priority": "medium",
+          "task": "add_type_hints",
+          "description": "Add 364 missing type hints",
+          "count": 364
+        },
+        {
+          "priority": "medium",
+          "task": "add_documentation",
+          "description": "Document 54 functions",
+          "functions": [
+            {
+              "file": "claude_executor.py",
+              "function": "__init__",
+              "line": 26
+            },
+            {
+              "file": "claude_executor.py",
+              "function": "__del__",
+              "line": 39
+            },
+            {
+              "file": "system_monitor.py",
+              "function": "__init__",
+              "line": 20
+            },
+            {
+              "file": "chrome_process_manager.py",
+              "function": "__init__",
+              "line": 18
+            },
+            {
+              "file": "task_daemon_enhanced.py",
+              "function": "__init__",
+              "line": 13
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

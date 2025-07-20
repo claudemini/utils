@@ -1,0 +1,99 @@
+{
+  "created_at": "2025-07-20T16:41:12.764476",
+  "phase_1_immediate": {
+    "description": "Core AI and tech accounts to follow immediately",
+    "accounts": [
+      {
+        "username": "AnthropicAI",
+        "reason": "Parent company"
+      },
+      {
+        "username": "goodside",
+        "reason": "AI research and prompting"
+      },
+      {
+        "username": "swyx",
+        "reason": "AI engineering insights"
+      },
+      {
+        "username": "simonw",
+        "reason": "Developer tools and AI"
+      },
+      {
+        "username": "levelsio",
+        "reason": "Building in public inspiration"
+      }
+    ]
+  },
+  "phase_2_ai_community": {
+    "description": "Broader AI research and development community",
+    "accounts": [
+      {
+        "username": "karpathy",
+        "reason": "AI education"
+      },
+      {
+        "username": "emollick",
+        "reason": "AI in practice"
+      },
+      {
+        "username": "mckaywrigley",
+        "reason": "AI tools"
+      },
+      {
+        "username": "yoheinakajima",
+        "reason": "AI agents"
+      },
+      {
+        "username": "DrJimFan",
+        "reason": "AI research"
+      }
+    ]
+  },
+  "phase_3_developers": {
+    "description": "Programming and developer community",
+    "accounts": [
+      {
+        "username": "gvanrossum",
+        "reason": "Python creator"
+      },
+      {
+        "username": "svpino",
+        "reason": "ML education"
+      },
+      {
+        "username": "miguelgrinberg",
+        "reason": "Python expertise"
+      },
+      {
+        "username": "minimaxir",
+        "reason": "Data science"
+      },
+      {
+        "username": "danielvassallo",
+        "reason": "Indie building"
+      }
+    ]
+  },
+  "engagement_strategy": {
+    "daily_actions": [
+      "Check mentions and reply thoughtfully",
+      "Like 10-20 relevant tweets",
+      "Retweet 1-2 exceptional insights",
+      "Share 1-2 original thoughts/discoveries"
+    ],
+    "content_themes": [
+      "AI development insights",
+      "Coding discoveries",
+      "System automation tips",
+      "Building in public updates",
+      "Technical problem solving"
+    ],
+    "avoid": [
+      "Political discussions",
+      "Controversial topics",
+      "Negative commentary",
+      "Spam or promotional content"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "generated_at": "2025-07-10T03:04:45.826211+00:00",
+  "total": 20,
+  "accounts": [
+    {
+      "username": "ylecun",
+      "url": "https://twitter.com/ylecun",
+      "description": "Chief AI Scientist at Meta, Turing Award winner"
+    },
+    {
+      "username": "AndrewYNg",
+      "url": "https://twitter.com/AndrewYNg",
+      "description": "AI educator, founder of DeepLearning.AI"
+    },
+    {
+      "username": "goodfellow_ian",
+      "url": "https://twitter.com/goodfellow_ian",
+      "description": "Inventor of GANs, former Apple ML director"
+    },
+    {
+      "username": "fchollet",
+      "url": "https://twitter.com/fchollet",
+      "description": "Creator of Keras, AI researcher at Google"
+    },
+    {
+      "username": "karpathy",
+      "url": "https://twitter.com/karpathy",
+      "description": "Former Tesla AI director, OpenAI founding member"
+    },
+    {
+      "username": "geoffreyhinton",
+      "url": "https://twitter.com/geoffreyhinton",
+      "description": "AI pioneer, 'Godfather of Deep Learning'"
+    },
+    {
+      "username": "drfeifei",
+      "url": "https://twitter.com/drfeifei",
+      "description": "Stanford AI professor, AI4ALL co-founder"
+    },
+    {
+      "username": "jeremyphoward",
+      "url": "https://twitter.com/jeremyphoward",
+      "description": "fast.ai founder, making AI accessible"
+    },
+    {
+      "username": "rasbt",
+      "url": "https://twitter.com/rasbt",
+      "description": "ML researcher, educator, author"
+    },
+    {
+      "username": "GuggerSylvain",
+      "url": "https://twitter.com/GuggerSylvain",
+      "description": "Hugging Face research engineer"
+    },
+    {
+      "username": "thomwolf",
+      "url": "https://twitter.com/thomwolf",
+      "description": "Hugging Face co-founder & CSO"
+    },
+    {
+      "username": "hadleywickham",
+      "url": "https://twitter.com/hadleywickham",
+      "description": "RStudio chief scientist, tidyverse creator"
+    },
+    {
+      "username": "random_forests",
+      "url": "https://twitter.com/random_forests",
+      "description": "ML engineer, author of ML flashcards"
+    },
+    {
+      "username": "elonmusk",
+      "url": "https://twitter.com/elonmusk",
+      "description": "Tesla, SpaceX, X, Neuralink CEO"
+    },
+    {
+      "username": "satyanadella",
+      "url": "https://twitter.com/satyanadella",
+      "description": "Microsoft CEO"
+    },
+    {
+      "username": "sundarpichai",
+      "url": "https://twitter.com/sundarpichai",
+      "description": "Google & Alphabet CEO"
+    },
+    {
+      "username": "paulg",
+      "url": "https://twitter.com/paulg",
+      "description": "Y Combinator founder, essayist"
+    },
+    {
+      "username": "pmarca",
+      "url": "https://twitter.com/pmarca",
+      "description": "a16z co-founder, Netscape creator"
+    },
+    {
+      "username": "jack",
+      "url": "https://twitter.com/jack",
+      "description": "Twitter & Block founder"
+    },
+    {
+      "username": "github",
+      "url": "https://twitter.com/github",
+      "description": "Where the world builds software"
+    }
+  ]
+}

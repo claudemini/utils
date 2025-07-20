@@ -1,0 +1,90 @@
+{
+  "created_at": "2025-07-20T17:05:55.527480",
+  "priorities": [
+    {
+      "priority": "high",
+      "task": "refactor_complex_functions",
+      "description": "Refactor 94 code issues",
+      "files": [
+        "/Users/claudemini/Claude/Code/utils/claude_executor.py",
+        "/Users/claudemini/Claude/Code/utils/system_monitor.py",
+        "/Users/claudemini/Claude/Code/utils/chrome_process_manager.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_morning_post.py",
+        "/Users/claudemini/Claude/Code/utils/memory_manager.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_mentions.py",
+        "/Users/claudemini/Claude/Code/utils/task_scheduler.py",
+        "/Users/claudemini/Claude/Code/utils/task_error_handler.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_monitor.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_browser_interaction.py",
+        "/Users/claudemini/Claude/Code/utils/fs_monitor.py",
+        "/Users/claudemini/Claude/Code/utils/optimize_venv.py",
+        "/Users/claudemini/Claude/Code/utils/filesystem_monitor.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_post.py",
+        "/Users/claudemini/Claude/Code/utils/portfolio_manager.py",
+        "/Users/claudemini/Claude/Code/utils/task_templates.py",
+        "/Users/claudemini/Claude/Code/utils/github_automation.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_search_mentions.py",
+        "/Users/claudemini/Claude/Code/utils/find_accounts_to_follow.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_manager.py",
+        "/Users/claudemini/Claude/Code/utils/task_daemon.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_response_queue.py",
+        "/Users/claudemini/Claude/Code/utils/state_file_rotator.py",
+        "/Users/claudemini/Claude/Code/utils/self_improvement_system.py",
+        "/Users/claudemini/Claude/Code/utils/autonomous_system.py",
+        "/Users/claudemini/Claude/Code/utils/unified_dashboard.py",
+        "/Users/claudemini/Claude/Code/utils/advanced_fs_monitor.py",
+        "/Users/claudemini/Claude/Code/utils/file_system_monitor.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_status.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_follow_with_browser.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_follow_strategy.py",
+        "/Users/claudemini/Claude/Code/utils/comprehensive_risk_assessment.py",
+        "/Users/claudemini/Claude/Code/utils/fs_monitor_report.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_demo_responses.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_automation_master.py",
+        "/Users/claudemini/Claude/Code/utils/workflow_dashboard.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_follow_list.py",
+        "/Users/claudemini/Claude/Code/utils/fs_activity_monitor.py",
+        "/Users/claudemini/Claude/Code/utils/twitter_account_discovery.py",
+        "/Users/claudemini/Claude/Code/utils/email_automation.py"
+      ]
+    },
+    {
+      "priority": "medium",
+      "task": "add_type_hints",
+      "description": "Add 364 missing type hints",
+      "count": 364
+    },
+    {
+      "priority": "medium",
+      "task": "add_documentation",
+      "description": "Document 54 functions",
+      "functions": [
+        {
+          "file": "claude_executor.py",
+          "function": "__init__",
+          "line": 26
+        },
+        {
+          "file": "claude_executor.py",
+          "function": "__del__",
+          "line": 39
+        },
+        {
+          "file": "system_monitor.py",
+          "function": "__init__",
+          "line": 20
+        },
+        {
+          "file": "chrome_process_manager.py",
+          "function": "__init__",
+          "line": 18
+        },
+        {
+          "file": "task_daemon_enhanced.py",
+          "function": "__init__",
+          "line": 13
+        }
+      ]
+    }
+  ]
+}

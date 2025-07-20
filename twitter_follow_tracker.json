@@ -1,0 +1,11 @@
+{
+  "following": [],
+  "follow_queue": [],
+  "interaction_log": [],
+  "stats": {
+    "total_following": 0,
+    "total_followers": 0,
+    "tweets_liked": 0,
+    "mentions_received": 0
+  }
+}

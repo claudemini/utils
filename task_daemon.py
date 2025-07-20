@@ -16,6 +16,7 @@ import psycopg2
 from psycopg2.extras import RealDictCursor
 import subprocess
 import json
+from task_error_handler import TaskErrorHandler
 
 # Setup logging
 logging.basicConfig(
@@ -36,6 +37,10 @@ class TaskDaemon:
         self.env_path = Path("/Users/claudemini/Claude/.env")
         self.context = {}
         self.db_conn = None
+        self.retry_attempts = {}  # Track retry attempts per task
+        self.max_retries = 3
+        self.retry_delays = [60, 300, 900]  # 1 min, 5 min, 15 min
+        self.error_handler = TaskErrorHandler()  # Initialize error handler
         
         # Signal handlers for graceful shutdown
         signal.signal(signal.SIGINT, self.handle_shutdown)
@@ -155,6 +160,10 @@ class TaskDaemon:
             with self.db_conn.cursor() as cur:
                 if result.returncode == 0:
                     status = 'success'
+                    # Reset retry count on success
+                    if task['id'] in self.retry_attempts:
+                        del self.retry_attempts[task['id']]
+                    
                     cur.execute("""
                         UPDATE task_executions 
                         SET status = %s, output = %s, completed_at = NOW(),
@@ -174,7 +183,7 @@ class TaskDaemon:
                         # One-time task
                         cur.execute("""
                             UPDATE scheduled_tasks 
-                            SET is_active = FALSE
+                            SET status = 'completed'
                             WHERE id = %s
                         """, (task['id'],))
                 else:
@@ -204,10 +213,17 @@ class TaskDaemon:
             self._handle_task_failure(task['id'], execution_id, 'failed', str(e))
             
     def _handle_task_failure(self, task_id, execution_id, status, error):
-        """Handle task failure"""
+        """Handle task failure with exponential backoff retry logic"""
         try:
             # Rollback any pending transaction
             self.db_conn.rollback()
+            
+            # Track retry attempts
+            if task_id not in self.retry_attempts:
+                self.retry_attempts[task_id] = 0
+            
+            self.retry_attempts[task_id] += 1
+            retry_count = self.retry_attempts[task_id]
             
             with self.db_conn.cursor() as cur:
                 if execution_id:
@@ -216,12 +232,38 @@ class TaskDaemon:
                         SET status = %s, error = %s, completed_at = NOW()
                         WHERE id = %s
                     """, (status, error, execution_id))
+                
+                # Determine next retry time based on retry count
+                if retry_count <= self.max_retries:
+                    # Use exponential backoff
+                    delay_seconds = self.retry_delays[min(retry_count - 1, len(self.retry_delays) - 1)]
+                    logger.info(f"Task {task_id} will retry in {delay_seconds} seconds (attempt {retry_count}/{self.max_retries})")
                     
-                cur.execute("""
-                    UPDATE scheduled_tasks 
-                    SET next_run_at = NOW() + INTERVAL '10 minutes'
-                    WHERE id = %s
-                """, (task_id,))
+                    cur.execute("""
+                        UPDATE scheduled_tasks 
+                        SET next_run_at = NOW() + INTERVAL '%s seconds'
+                        WHERE id = %s
+                    """, (delay_seconds, task_id))
+                else:
+                    # Max retries exceeded, disable task
+                    logger.error(f"Task {task_id} exceeded max retries ({self.max_retries}), disabling")
+                    cur.execute("""
+                        UPDATE scheduled_tasks 
+                        SET status = 'failed',
+                            next_run_at = NULL
+                        WHERE id = %s
+                    """, (task_id,))
+                    
+                    # Store memory about the failure
+                    from memory_manager import MemoryManager
+                    memory = MemoryManager()
+                    memory.store_memory(
+                        f"Task {task_id} failed after {self.max_retries} retries with error: {error}",
+                        memory_type="task",
+                        tags=["task_failure", "automation"],
+                        importance=7
+                    )
+                    
                 self.db_conn.commit()
         except Exception as e:
             logger.error(f"Error handling task failure: {e}")

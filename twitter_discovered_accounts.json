@@ -1,0 +1,245 @@
+{
+  "timestamp": "2025-07-10T09:56:13.727836+00:00",
+  "accounts": [
+    {
+      "id": 1858126931469996032,
+      "username": "HeyAnonai",
+      "name": "Hey Anon",
+      "description": "House of DeFAI. We didn\u2019t join it. We built it.",
+      "followers": 51137,
+      "verified": true,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 4
+    },
+    {
+      "id": 3316376038,
+      "username": "KobeissiLetter",
+      "name": "The Kobeissi Letter",
+      "description": "Official X account for The Kobeissi Letter, an industry leading commentary on the global capital mar...",
+      "followers": 940244,
+      "verified": true,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 4
+    },
+    {
+      "id": 1332033418088099843,
+      "username": "arbitrum",
+      "name": "Arbitrum",
+      "description": "An onchain ecosystem for all. Arbitrum Everywhere.",
+      "followers": 1171616,
+      "verified": true,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 4
+    },
+    {
+      "id": 977020204071792641,
+      "username": "SonicLabs",
+      "name": "Sonic Labs",
+      "description": "DeFi redefined. Sonic is the highest-performing EVM blockchain, combining speed, incentives, and wor...",
+      "followers": 855555,
+      "verified": true,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 4
+    },
+    {
+      "id": 1592468786489212928,
+      "username": "Mantle_Official",
+      "name": "Mantle",
+      "description": "Building the largest sustainable hub for on-chain finance with core innovative pillars Mantle Networ...",
+      "followers": 878712,
+      "verified": true,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 4
+    },
+    {
+      "id": 175282603,
+      "username": "jeremyphoward",
+      "name": "Jeremy Howard",
+      "description": "\ud83c\udde6\ud83c\uddfa Co-founder: @AnswerDotAI & @FastDotAI ;\nPrev: professor @ UQ; Stanford fellow; @kaggle president;...",
+      "followers": 252938,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 141007481,
+      "username": "danielesesta",
+      "name": "Daniele \ud83d\udfe7 ( Meme Quant )",
+      "description": "\ud83d\udc38 DeFAI Maxi @heyanonai @gmgemma_ai @wagmicom @apes_win \ud83c\udde8\ud83c\uddf3 alt @bigdzhao",
+      "followers": 293251,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 12963432,
+      "username": "mitsuhiko",
+      "name": "Armin Ronacher \u21cc",
+      "description": "Creator of Flask; A decade at @getsentry; Building new things \u2014 love API design & AI. Bypassing Perm...",
+      "followers": 57396,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1290055572,
+      "username": "matt_barrie",
+      "name": "Matt Barrie",
+      "description": "Chief Executive of https://t.co/sebwYSgNyq, https://t.co/cbqmv9wcbt, Executive Chairman of https://t...",
+      "followers": 27473,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 9111552,
+      "username": "iannuttall",
+      "name": "Ian Nuttall",
+      "description": "TLDR; I make software with AI and talk about it.  Serial internet biz builder with multiple 6 & 7 fi...",
+      "followers": 62595,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1743487864934162432,
+      "username": "ArtificialAnlys",
+      "name": "Artificial Analysis",
+      "description": "Independent analysis of AI models and hosting providers - choose the best model and API provider for...",
+      "followers": 44120,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1601214782710988803,
+      "username": "BrianEMcGrath",
+      "name": "BrianEMcGrath",
+      "description": "Husband, Dad, Christian, Runner, Technology Guy, Health Enthusiast, Lifelong Learner. Sharing life's...",
+      "followers": 3151,
+      "verified": false,
+      "topics": [
+        "technology"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 85578237,
+      "username": "jonjonclark",
+      "name": "jonjon | ethcc",
+      "description": "MAKE DATA GREAT AGAIN Shipping \ud83d\udea2 co-founder @envio_indexer",
+      "followers": 2808,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1381880305565364225,
+      "username": "LVSpike420",
+      "name": "Spike \ud83c\udccf\u26e9\ufe0f (ShinySnorlax.eth)",
+      "description": "Web3/Sports/Poker Degen. #NoGambleNoFuture. OG NFT Collectooor \ud83d\udc31\u26e9\ufe0f\ud83c\udfa8. TeamValor\u2764\ufe0f\u200d\ud83d\udd25 TL50. @RaizokuRis...",
+      "followers": 14930,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1516641037476761601,
+      "username": "quan_eth",
+      "name": "Quan",
+      "description": "| Getting rich off crypto | Big @KaitoAI guy |",
+      "followers": 18219,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1432840013834764290,
+      "username": "php100",
+      "name": "Dave",
+      "description": "swe, ai/ml, meme(ry/tics)",
+      "followers": 1773,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1297651178256257024,
+      "username": "AutismCapital",
+      "name": "Autism Capital \ud83e\udde9",
+      "description": "Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, Memes,...",
+      "followers": 872463,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1555100717035458561,
+      "username": "SpachusAus",
+      "name": "Spachus Aus",
+      "description": "Like Spacious. Independent property price tracker.\nFree and paid memberships for transparent propert...",
+      "followers": 10284,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 1527020295059648513,
+      "username": "HyperliquidX",
+      "name": "Hyperliquid",
+      "description": "The blockchain to house all finance. Trade, build apps, and launch tokens on the same hyper-performa...",
+      "followers": 284112,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    },
+    {
+      "id": 864011281,
+      "username": "KookCapitalLLC",
+      "name": "kook \ud83c\udfdd\ufe0f",
+      "description": "on-chain is about to change forever \ud83d\udcf2 https://t.co/XxwiWTrWQp",
+      "followers": 167487,
+      "verified": false,
+      "topics": [
+        "AI"
+      ],
+      "quality_score": 2
+    }
+  ]
+}
