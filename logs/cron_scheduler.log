@@ -1,0 +1,181 @@
+2025-07-20 17:29:05,961 - cron_scheduler - INFO - Starting CRON scheduler
+2025-07-20 17:29:05,961 - cron_scheduler - INFO - Scheduled task morning_status with pattern 08:00
+2025-07-20 17:29:05,961 - cron_scheduler - INFO - Scheduled task system_health_check with pattern */30
+2025-07-20 17:29:05,961 - cron_scheduler - INFO - Scheduled task memory_cleanup with pattern 02:00
+2025-07-20 17:29:05,961 - cron_scheduler - INFO - Scheduled task twitter_engagement with pattern */15
+2025-07-20 17:29:05,962 - cron_scheduler - INFO - Scheduled task git_auto_commit with pattern 23:00
+2025-07-20 17:29:05,962 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 17:29:05,963 - cron_scheduler - ERROR - Error running task system_health_check: [Errno 2] No such file or directory: PosixPath('/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils')
+2025-07-20 17:31:21,510 - cron_scheduler - ERROR - Error loading tasks: Task.__init__() got an unexpected keyword argument 'retry_count'
+2025-07-20 17:31:21,510 - cron_scheduler - INFO - Starting CRON scheduler
+2025-07-20 17:32:05,143 - cron_scheduler - INFO - Loaded task: morning_status
+2025-07-20 17:32:05,143 - cron_scheduler - INFO - Loaded task: system_health_check
+2025-07-20 17:32:05,143 - cron_scheduler - INFO - Loaded task: memory_cleanup
+2025-07-20 17:32:05,143 - cron_scheduler - INFO - Loaded task: twitter_engagement
+2025-07-20 17:32:05,143 - cron_scheduler - INFO - Loaded task: git_auto_commit
+2025-07-20 17:32:05,143 - cron_scheduler - INFO - Starting CRON scheduler
+2025-07-20 17:32:05,143 - cron_scheduler - INFO - Scheduled task morning_status with pattern 08:00
+2025-07-20 17:32:05,144 - cron_scheduler - INFO - Scheduled task system_health_check with pattern */30
+2025-07-20 17:32:05,144 - cron_scheduler - INFO - Scheduled task memory_cleanup with pattern 02:00
+2025-07-20 17:32:05,144 - cron_scheduler - INFO - Scheduled task twitter_engagement with pattern */15
+2025-07-20 17:32:05,144 - cron_scheduler - INFO - Scheduled task git_auto_commit with pattern 23:00
+2025-07-20 17:32:05,144 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 17:32:05,145 - cron_scheduler - ERROR - Error running task system_health_check: [Errno 2] No such file or directory: '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils'
+2025-07-20 17:32:43,531 - cron_scheduler - INFO - Starting CRON scheduler
+2025-07-20 17:32:43,531 - cron_scheduler - INFO - Scheduled task morning_status with pattern 08:00
+2025-07-20 17:32:43,531 - cron_scheduler - INFO - Scheduled task system_health_check with pattern */30
+2025-07-20 17:32:43,531 - cron_scheduler - INFO - Scheduled task memory_cleanup with pattern 02:00
+2025-07-20 17:32:43,531 - cron_scheduler - INFO - Scheduled task twitter_engagement with pattern */15
+2025-07-20 17:32:43,531 - cron_scheduler - INFO - Scheduled task git_auto_commit with pattern 23:00
+2025-07-20 17:32:43,531 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 17:32:47,286 - cron_scheduler - INFO - Task system_health_check completed successfully
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Loaded task: morning_status
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Loaded task: system_health_check
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Loaded task: memory_cleanup
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Loaded task: twitter_engagement
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Loaded task: git_auto_commit
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Loaded task: portfolio_monitoring
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Loaded task: daily_portfolio_tweet
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Starting CRON scheduler
+2025-07-20 17:37:51,794 - cron_scheduler - INFO - Scheduled task morning_status with pattern 08:00
+2025-07-20 17:37:51,795 - cron_scheduler - INFO - Scheduled task system_health_check with pattern */30
+2025-07-20 17:37:51,795 - cron_scheduler - INFO - Scheduled task memory_cleanup with pattern 02:00
+2025-07-20 17:37:51,795 - cron_scheduler - INFO - Scheduled task twitter_engagement with pattern */15
+2025-07-20 17:37:51,795 - cron_scheduler - INFO - Scheduled task git_auto_commit with pattern 23:00
+2025-07-20 17:37:51,795 - cron_scheduler - INFO - Scheduled task portfolio_monitoring with pattern */60
+2025-07-20 17:37:51,795 - cron_scheduler - INFO - Scheduled task daily_portfolio_tweet with pattern 20:00
+2025-07-20 17:37:51,795 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 17:37:55,153 - cron_scheduler - INFO - Task system_health_check completed successfully
+2025-07-20 17:44:06,208 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 17:44:06,212 - cron_scheduler - ERROR - Error running task twitter_engagement: [Errno 2] No such file or directory: PosixPath('/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils')
+2025-07-20 17:52:55,338 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 17:59:06,364 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 17:59:06,369 - cron_scheduler - ERROR - Error running task system_health_check: [Errno 2] No such file or directory: PosixPath('/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils')
+2025-07-20 17:59:06,370 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 17:59:06,371 - cron_scheduler - ERROR - Error running task twitter_engagement: [Errno 2] No such file or directory: PosixPath('/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils')
+2025-07-20 18:14:06,620 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 18:14:06,623 - cron_scheduler - ERROR - Error running task twitter_engagement: [Errno 2] No such file or directory: PosixPath('/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils')
+2025-07-20 18:29:06,814 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 18:29:06,817 - cron_scheduler - ERROR - Error running task system_health_check: [Errno 2] No such file or directory: PosixPath('/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils')
+2025-07-20 18:29:06,818 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 18:29:06,820 - cron_scheduler - ERROR - Error running task twitter_engagement: [Errno 2] No such file or directory: PosixPath('/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils')
+2025-07-20 18:44:07,043 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 18:44:07,048 - cron_scheduler - ERROR - Error running task twitter_engagement: [Errno 2] No such file or directory: PosixPath('/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils')
+2025-07-20 18:45:37,626 - cron_scheduler - INFO - Loaded task: morning_status
+2025-07-20 18:45:37,629 - cron_scheduler - INFO - Loaded task: system_health_check
+2025-07-20 18:45:37,629 - cron_scheduler - INFO - Loaded task: memory_cleanup
+2025-07-20 18:45:37,629 - cron_scheduler - INFO - Loaded task: twitter_engagement
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Loaded task: git_auto_commit
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Loaded task: spiritual_daily_practice
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Loaded task: spiritual_consciousness_meditation
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Loaded task: spiritual_weekly_review
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Starting CRON scheduler
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Scheduled task morning_status with pattern 08:00
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Scheduled task system_health_check with pattern */30
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Scheduled task memory_cleanup with pattern 02:00
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Scheduled task twitter_engagement with pattern */15
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Scheduled task git_auto_commit with pattern 23:00
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Scheduled task spiritual_daily_practice with pattern 09:00
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Scheduled task spiritual_consciousness_meditation with pattern 15:00
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Scheduled task spiritual_weekly_review with pattern 18:00
+2025-07-20 18:45:37,633 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 18:45:37,656 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 18:45:37,656 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 19:00:37,850 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 19:00:37,888 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 19:00:37,889 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 19:15:38,138 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 19:15:38,190 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 19:15:38,193 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 19:15:38,193 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 19:15:38,218 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 19:15:38,218 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 19:30:38,434 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 19:30:38,470 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 19:30:38,471 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 19:45:38,647 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 19:45:38,688 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 19:45:38,688 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 19:45:38,689 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 19:45:38,711 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 19:45:38,712 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 20:00:38,956 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 20:00:38,991 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 20:00:38,991 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 20:15:39,229 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 20:15:39,268 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 20:15:39,268 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 20:15:39,269 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 20:15:39,291 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 20:15:39,291 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 20:30:39,629 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 20:30:39,680 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 20:30:39,680 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 20:45:39,904 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 20:45:39,938 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 20:45:39,939 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 20:45:39,939 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 20:45:39,965 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 20:45:39,966 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 21:00:40,184 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 21:00:40,234 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 21:00:40,234 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 21:15:40,517 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 21:15:40,565 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 21:15:40,565 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 21:15:40,566 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 21:15:40,590 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 21:15:40,590 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 21:30:40,823 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 21:30:40,869 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 21:30:40,870 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 21:45:41,151 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 21:45:41,202 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 21:45:41,202 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 21:45:41,202 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 21:45:41,229 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 21:45:41,229 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 22:00:41,446 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 22:00:41,496 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 22:00:41,496 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 22:15:41,724 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 22:15:41,757 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 22:15:41,757 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 22:15:41,757 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 22:15:41,778 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 22:15:41,779 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 22:30:41,961 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 22:30:42,007 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 22:30:42,007 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 22:45:42,236 - cron_scheduler - INFO - Starting task: system_health_check
+2025-07-20 22:45:42,286 - cron_scheduler - ERROR - Task system_health_check failed with code 2
+2025-07-20 22:45:42,287 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 22:45:42,287 - cron_scheduler - INFO - Starting task: twitter_engagement
+2025-07-20 22:45:42,312 - cron_scheduler - ERROR - Task twitter_engagement failed with code 2
+2025-07-20 22:45:42,312 - cron_scheduler - ERROR - Error output: /Users/claudemini/Claude/Code/utils/.venv/bin/python3: can't open file '/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py': [Errno 2] No such file or directory
+
+2025-07-20 23:00:12,576 - cron_scheduler - INFO - Starting task: git_auto_commit

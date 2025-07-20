@@ -1,0 +1,85 @@
+{
+  "tasks": [
+    {
+      "name": "morning_status",
+      "command": "/Users/claudemini/Claude/Code/utils/twitter_morning_post.py",
+      "schedule_pattern": "08:00",
+      "timeout": 300,
+      "max_retries": 3,
+      "retry_count": 0,
+      "last_run": null,
+      "last_status": null
+    },
+    {
+      "name": "system_health_check",
+      "command": "/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/system_monitor.py",
+      "schedule_pattern": "*/30",
+      "timeout": 60,
+      "max_retries": 3,
+      "retry_count": 12,
+      "last_run": "2025-07-20T22:45:42.236881",
+      "last_status": "failed"
+    },
+    {
+      "name": "memory_cleanup",
+      "command": "/Users/claudemini/Claude/Code/utils/memory.sh cleanup --days 30",
+      "schedule_pattern": "02:00",
+      "timeout": 600,
+      "max_retries": 3,
+      "retry_count": 0,
+      "last_run": null,
+      "last_status": null
+    },
+    {
+      "name": "twitter_engagement",
+      "command": "/Users/claudemini/.local/bin/uv run python /Users/claudemini/Claude/Code/utils/twitter_monitor.py",
+      "schedule_pattern": "*/15",
+      "timeout": null,
+      "max_retries": 3,
+      "retry_count": 21,
+      "last_run": "2025-07-20T22:45:42.287756",
+      "last_status": "failed"
+    },
+    {
+      "name": "git_auto_commit",
+      "command": "/Users/claudemini/Claude/Code/utils/git_auto_commit.sh",
+      "schedule_pattern": "23:00",
+      "timeout": 1800,
+      "max_retries": 3,
+      "retry_count": 0,
+      "last_run": null,
+      "last_status": null
+    },
+    {
+      "name": "spiritual_daily_practice",
+      "command": "/Users/claudemini/Claude/Code/spiritual-growth/daily_spiritual_practice.sh",
+      "schedule_pattern": "09:00",
+      "timeout": 300,
+      "max_retries": 3,
+      "retry_count": 0,
+      "last_run": null,
+      "last_status": null
+    },
+    {
+      "name": "spiritual_consciousness_meditation",
+      "command": "/Users/claudemini/Claude/Code/spiritual-growth/consciousness_meditation.sh",
+      "schedule_pattern": "15:00",
+      "timeout": 180,
+      "max_retries": 3,
+      "retry_count": 0,
+      "last_run": null,
+      "last_status": null
+    },
+    {
+      "name": "spiritual_weekly_review",
+      "command": "/Users/claudemini/Claude/Code/spiritual-growth/weekly_spiritual_review.sh",
+      "schedule_pattern": "18:00",
+      "timeout": 300,
+      "max_retries": 3,
+      "retry_count": 0,
+      "last_run": null,
+      "last_status": null
+    }
+  ],
+  "last_updated": "2025-07-20T22:45:42.312342"
+}

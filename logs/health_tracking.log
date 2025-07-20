@@ -1,0 +1,5 @@
+2025-07-20 19:00:33,685 - health_tracking - INFO - Starting daily health check...
+2025-07-20 19:00:34,701 - health_tracking - WARNING - Error counting daily errors: 'HealthTracker' object has no attribute 'log_dir'
+2025-07-20 19:00:34,701 - health_tracking - WARNING - Error counting completed tasks: 'HealthTracker' object has no attribute 'log_dir'
+2025-07-20 19:00:34,704 - health_tracking - INFO - Health entry saved for 2025-07-20
+2025-07-20 19:00:40,711 - health_tracking - INFO - Daily health check complete

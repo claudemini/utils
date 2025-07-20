@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-07-20T18:57:16.309894",
+  "total_issues": 82632,
+  "issue_breakdown": {
+    "debugging": 3054,
+    "type_hints": 75834,
+    "exception_handling": 112,
+    "line_length": 1755,
+    "todo": 1872,
+    "security": 2,
+    "syntax_error": 3
+  },
+  "insights_count": 5,
+  "high_priority_insights": 2
+}

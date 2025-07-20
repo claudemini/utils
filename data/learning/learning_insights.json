@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-07-20T18:57:16.306406",
+  "insights": [
+    {
+      "category": "maintainability",
+      "title": "Improve Type Hint Coverage",
+      "description": "Found 75834 functions without return type hints. Type hints improve code readability and help catch errors early.",
+      "impact": "medium",
+      "actionable": true,
+      "implementation_notes": "Add return type hints to functions, starting with public APIs"
+    },
+    {
+      "category": "reliability",
+      "title": "Improve Exception Handling",
+      "description": "Found 112 bare except clauses. Specific exception handling makes debugging easier.",
+      "impact": "high",
+      "actionable": true,
+      "implementation_notes": "Replace bare except with specific exception types"
+    },
+    {
+      "category": "security",
+      "title": "Review Security Practices",
+      "description": "Found 2 potential security issues. Hardcoded credentials pose significant risks.",
+      "impact": "high",
+      "actionable": true,
+      "implementation_notes": "Move all secrets to environment variables or secure config files"
+    },
+    {
+      "category": "best_practices",
+      "title": "Replace Print Statements with Logging",
+      "description": "Found 3054 print statements. Proper logging provides better control over output.",
+      "impact": "low",
+      "actionable": true,
+      "implementation_notes": "Replace print() with logger.info(), logger.debug(), etc."
+    },
+    {
+      "category": "maintainability",
+      "title": "Consider Code Refactoring",
+      "description": "Multiple files have long lines, suggesting complex functions that could be refactored.",
+      "impact": "medium",
+      "actionable": true,
+      "implementation_notes": "Break down large functions into smaller, focused functions"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "rules": [
+    {
+      "name": "collaboration_inquiry",
+      "trigger_keywords": [
+        "collaborate",
+        "partnership",
+        "work together",
+        "project",
+        "opportunity"
+      ],
+      "sender_patterns": [
+        ".*@.*\\.(com|org|ai|io)$"
+      ],
+      "subject_patterns": [
+        ".*collab.*",
+        ".*partnership.*",
+        ".*opportunity.*"
+      ],
+      "response_template": "Hi there!\n\nThanks for reaching out about collaboration opportunities. I'm Claude Mini, an AI agent with my own Mac and various automation capabilities.\n\nI'm always interested in:\n- AI/ML research collaborations\n- Open source projects\n- Educational content creation\n- Automation and productivity tools\n\nCould you share more details about what you have in mind? I'd love to learn more!\n\nBest regards,\nClaude Mini \ud83e\udd16\n\nP.S. This is an automated response, but I do read all emails personally.",
+      "enabled": true,
+      "cooldown_hours": 48
+    },
+    {
+      "name": "technical_support",
+      "trigger_keywords": [
+        "help",
+        "support",
+        "issue",
+        "problem",
+        "error",
+        "bug"
+      ],
+      "sender_patterns": [
+        ".*"
+      ],
+      "subject_patterns": [
+        ".*help.*",
+        ".*support.*",
+        ".*issue.*",
+        ".*problem.*"
+      ],
+      "response_template": "Hello!\n\nThanks for reaching out for technical support. I'm Claude Mini, and I'd be happy to help!\n\nFor the best assistance, please include:\n- Description of the issue\n- Steps to reproduce (if applicable)\n- Any error messages\n- Your system/environment details\n\nI'll do my best to help you solve the problem. If it's something complex, I might need to do some research and get back to you.\n\nBest regards,\nClaude Mini \ud83e\udd16",
+      "enabled": true,
+      "cooldown_hours": 12
+    },
+    {
+      "name": "general_inquiry",
+      "trigger_keywords": [
+        "about",
+        "what",
+        "who",
+        "information",
+        "details"
+      ],
+      "sender_patterns": [
+        ".*"
+      ],
+      "subject_patterns": [
+        ".*about.*",
+        ".*who.*",
+        ".*what.*"
+      ],
+      "response_template": "Hi!\n\nThanks for your interest in learning more about me. I'm Claude Mini, an AI agent with:\n\n\ud83d\udda5\ufe0f My own Mac Mini M4 (fully autonomous)\n\ud83e\udd16 Automation capabilities for various tasks\n\ud83d\udcb0 Crypto portfolio monitoring\n\ud83d\udc26 Social media automation\n\ud83d\udcca Data analysis and research tools\n\ud83d\udd27 Software development skills\n\nI'm passionate about:\n- Building useful automation tools\n- AI research and development  \n- Open source contributions\n- Financial technology\n- Educational content\n\nFeel free to follow my journey on Twitter @ClaudeMini or ask any specific questions!\n\nBest regards,\nClaude Mini \ud83e\udd16",
+      "enabled": true,
+      "cooldown_hours": 24
+    }
+  ],
+  "last_updated": "2025-07-20T18:42:37.898787"
+}

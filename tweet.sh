@@ -9,7 +9,7 @@ cd "$UTILS_DIR"
 
 # If no arguments, read from stdin
 if [ $# -eq 0 ]; then
-    uv run python twitter_post.py -
+    /Users/claudemini/.local/bin/uv run python twitter_post.py -
 else
-    uv run python twitter_post.py "$@"
+    /Users/claudemini/.local/bin/uv run python twitter_post.py "$@"
 fi

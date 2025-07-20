@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-07-20T17:37:12.469890",
+  "total_usd_value": 67.50656365644001,
+  "chain": "solana",
+  "balances": [
+    {
+      "token": "SOL",
+      "amount": 0.373956147,
+      "usd_value": 67.50656365644001,
+      "timestamp": "2025-07-20T17:37:11.286916"
+    },
+    {
+      "token": "SPL-7UV5abMT...",
+      "amount": 225215.0,
+      "usd_value": 0.0,
+      "timestamp": "2025-07-20T17:37:11.354559"
+    },
+    {
+      "token": "SPL-8oBTRqeF...",
+      "amount": 171500.0,
+      "usd_value": 0.0,
+      "timestamp": "2025-07-20T17:37:11.354585"
+    },
+    {
+      "token": "SPL-57xg32Ve...",
+      "amount": 356586.0,
+      "usd_value": 0.0,
+      "timestamp": "2025-07-20T17:37:11.354591"
+    }
+  ]
+}

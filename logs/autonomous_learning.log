@@ -1,0 +1,14 @@
+2025-07-20 18:44:12,179 - autonomous_learning - INFO - Starting daily autonomous learning analysis...
+2025-07-20 18:44:12,179 - autonomous_learning - INFO - Starting codebase analysis...
+2025-07-20 18:44:12,329 - autonomous_learning - INFO - Found 17790 Python files to analyze
+2025-07-20 18:44:16,236 - autonomous_learning - WARNING - Error analyzing /Users/claudemini/Claude/Code/rogue-quant/venv/lib/python3.9/site-packages/joblib/test/test_func_inspect_special_encoding.py: 'utf-8' codec can't decode byte 0xa4 in position 64: invalid start byte
+2025-07-20 18:44:22,140 - autonomous_learning - INFO - Analysis complete: 83846 issues found
+2025-07-20 18:44:22,140 - autonomous_learning - INFO - Severity breakdown: {'critical': 3, 'high': 1395, 'medium': 1983, 'low': 80465}
+2025-07-20 18:44:28,337 - autonomous_learning - INFO - Daily analysis complete
+2025-07-20 18:57:05,936 - autonomous_learning - INFO - Starting daily autonomous learning analysis...
+2025-07-20 18:57:05,938 - autonomous_learning - INFO - Starting codebase analysis...
+2025-07-20 18:57:06,287 - autonomous_learning - INFO - Found 17800 Python files to analyze
+2025-07-20 18:57:10,386 - autonomous_learning - WARNING - Error analyzing /Users/claudemini/Claude/Code/rogue-quant/venv/lib/python3.9/site-packages/joblib/test/test_func_inspect_special_encoding.py: 'utf-8' codec can't decode byte 0xa4 in position 64: invalid start byte
+2025-07-20 18:57:16,297 - autonomous_learning - INFO - Analysis complete: 82632 issues found
+2025-07-20 18:57:16,299 - autonomous_learning - INFO - Severity breakdown: {'critical': 3, 'high': 2, 'medium': 1984, 'low': 80643}
+2025-07-20 18:57:22,313 - autonomous_learning - INFO - Daily analysis complete

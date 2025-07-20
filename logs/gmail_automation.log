@@ -1,0 +1,1 @@
+2025-07-20 18:42:40,540 - gmail_automation - ERROR - Error sending email to claudemini69@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b70868csm40074965ad.229 - gsmtp')

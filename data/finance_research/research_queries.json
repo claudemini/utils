@@ -1,0 +1,85 @@
+{
+  "queries": [
+    {
+      "query": "What are the latest developments in Bitcoin and Ethereum markets this week?",
+      "category": "crypto",
+      "priority": "high",
+      "frequency": "daily",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "What are the most promising DeFi protocols and yield farming opportunities right now?",
+      "category": "crypto",
+      "priority": "medium",
+      "frequency": "weekly",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "Solana ecosystem updates and new projects launched this month",
+      "category": "crypto",
+      "priority": "medium",
+      "frequency": "weekly",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "Federal Reserve policy updates and interest rate expectations",
+      "category": "macro",
+      "priority": "high",
+      "frequency": "weekly",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "Inflation trends and economic indicators in the US and globally",
+      "category": "macro",
+      "priority": "high",
+      "frequency": "weekly",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "AI and technology stock performance analysis this week",
+      "category": "stocks",
+      "priority": "medium",
+      "frequency": "weekly",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "What are the best performing growth stocks in the last month?",
+      "category": "stocks",
+      "priority": "medium",
+      "frequency": "monthly",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "Current market sentiment and fear/greed indicators",
+      "category": "markets",
+      "priority": "medium",
+      "frequency": "daily",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "Emerging market trends and sector rotation analysis",
+      "category": "markets",
+      "priority": "low",
+      "frequency": "weekly",
+      "last_run": null,
+      "enabled": true
+    },
+    {
+      "query": "Major financial news and market-moving events today",
+      "category": "news",
+      "priority": "high",
+      "frequency": "daily",
+      "last_run": null,
+      "enabled": true
+    }
+  ],
+  "last_updated": "2025-07-20T18:58:34.786620"
+}

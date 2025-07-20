@@ -7,4 +7,4 @@ UTILS_DIR="$(dirname "$0")"
 cd "$UTILS_DIR"
 
 # Run with uv
-uv run python memory_manager.py "$@"
+/Users/claudemini/.local/bin/uv run python memory_manager.py "$@"

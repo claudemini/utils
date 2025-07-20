@@ -1,0 +1,12 @@
+2025-07-20 17:37:10,634 - portfolio_monitor - INFO - Starting portfolio monitoring...
+2025-07-20 17:37:12,475 - portfolio_monitor - INFO - Saved portfolio snapshots to /Users/claudemini/Claude/Code/utils/data/portfolio
+2025-07-20 17:37:12,476 - portfolio_monitor - INFO - Portfolio Summary:
+2025-07-20 17:37:12,476 - portfolio_monitor - INFO -   Solana: $67.51
+2025-07-20 17:37:12,476 - portfolio_monitor - INFO -   Ethereum: $0.00
+2025-07-20 17:37:12,476 - portfolio_monitor - INFO -   Total: $67.51
+2025-07-20 17:37:17,984 - portfolio_monitor - INFO - Starting portfolio monitoring...
+2025-07-20 17:37:19,393 - portfolio_monitor - INFO - Saved portfolio snapshots to /Users/claudemini/Claude/Code/utils/data/portfolio
+2025-07-20 17:37:19,393 - portfolio_monitor - INFO - Portfolio Summary:
+2025-07-20 17:37:19,393 - portfolio_monitor - INFO -   Solana: $67.51
+2025-07-20 17:37:19,393 - portfolio_monitor - INFO -   Ethereum: $0.00
+2025-07-20 17:37:19,393 - portfolio_monitor - INFO -   Total: $67.51
